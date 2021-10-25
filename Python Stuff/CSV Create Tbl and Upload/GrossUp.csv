@@ -1,0 +1,701 @@
+Index1,Index2,Active Index,Active,From Centre,From Centre Principal Name,From Product,From Product Principal Name,From Scenario,To Centre,To Centre Principal Name,To Product,To Product Principal Name,To Scenario,Weight,ErrorValidation,ErrorValidationCount
+I-0001,L-0000,0.00,1.00,MICB2075 - WBC AGRI Northern NSW,MICB2075,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0001,L-0001,1.00,1.00,,,,,,096435 - Invoice Finance (WIF) NSW,096435,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0001,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0001,L-0003,1.00,1.00,,,,,,MICB2075 - WBC AGRI Northern NSW,MICB2075,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0001,L-0004,1.00,1.00,,,,,,MICB2075 - WBC AGRI Northern NSW,MICB2075,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0002,L-0000,0.00,1.00,MICB2636 - WBC AGRI Southern NSW,MICB2636,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0002,L-0001,1.00,1.00,,,,,,096435 - Invoice Finance (WIF) NSW,096435,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0002,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0002,L-0003,1.00,1.00,,,,,,MICB2636 - WBC AGRI Southern NSW,MICB2636,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0002,L-0004,1.00,1.00,,,,,,MICB2636 - WBC AGRI Southern NSW,MICB2636,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0003,L-0000,0.00,1.00,MICB2865 - WBC AGRI SA/NT,MICB2865,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0003,L-0001,1.00,1.00,,,,,,096380 - Invoice Finance (WIF) SA/NT,096380,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0003,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0003,L-0003,1.00,1.00,,,,,,MICB2865 - WBC AGRI SA/NT,MICB2865,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0003,L-0004,1.00,1.00,,,,,,MICB2865 - WBC AGRI SA/NT,MICB2865,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0004,L-0000,0.00,1.00,MICB2927 - WBC AGRI Queensland,MICB2927,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0004,L-0001,1.00,1.00,,,,,,096480 - Invoice Finance (WIF) QLD,096480,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0004,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0004,L-0003,1.00,1.00,,,,,,MICB2927 - WBC AGRI Queensland,MICB2927,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0004,L-0004,1.00,1.00,,,,,,MICB2927 - WBC AGRI Queensland,MICB2927,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0005,L-0000,0.00,1.00,MICB2933 - WBC AGRI Northern VIC,MICB2933,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0005,L-0001,1.00,1.00,,,,,,096375 - Invoice Finance (WIF) VIC,096375,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0005,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0005,L-0003,1.00,1.00,,,,,,MICB2933 - WBC AGRI Northern VIC,MICB2933,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0005,L-0004,1.00,1.00,,,,,,MICB2933 - WBC AGRI Northern VIC,MICB2933,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0006,L-0000,0.00,1.00,MICB2940 - WBC AGRI WA,MICB2940,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0006,L-0001,1.00,1.00,,,,,,096426 - Invoice Finance (WIF) WA,096426,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0006,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0006,L-0003,1.00,1.00,,,,,,MICB2940 - WBC AGRI WA,MICB2940,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0006,L-0004,1.00,1.00,,,,,,MICB2940 - WBC AGRI WA,MICB2940,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0007,L-0000,0.00,1.00,MIRB0815 - WBC AGRI VIC / TAS,MIRB0815,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0007,L-0001,1.00,1.00,,,,,,096375 - Invoice Finance (WIF) VIC,096375,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0007,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0007,L-0003,1.00,1.00,,,,,,MIRB0815 - WBC AGRI VIC / TAS,MIRB0815,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0007,L-0004,1.00,1.00,,,,,,MIRB0815 - WBC AGRI VIC / TAS,MIRB0815,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0008,L-0000,0.00,1.00,MIRB9040 - WBC AGRI HO,MIRB9040,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0008,L-0001,1.00,1.00,,,,,,090323 - Invoice Finance HO,090323,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0008,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0008,L-0003,1.00,1.00,,,,,,MIRB9040 - WBC AGRI HO,MIRB9040,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0008,L-0004,1.00,1.00,,,,,,MIRB9040 - WBC AGRI HO,MIRB9040,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0009,L-0000,0.00,1.00,MISG0896 - SBG AGRI (Brand Parent),MISG0896,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0009,L-0001,1.00,1.00,,,,,,840061 - St George Asset Lending - Trade and Cash Flow ALM Adj Centre,840061,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0009,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0009,L-0003,1.00,1.00,,,,,,MISG0896 - SBG AGRI (Brand Parent),MISG0896,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0009,L-0004,1.00,1.00,,,,,,MISG0896 - SBG AGRI (Brand Parent),MISG0896,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0010,L-0000,0.00,1.00,MI731095 - Industry Specialisation,MI731095,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0010,L-0001,1.00,1.00,,,,,,090329 - Invoice Finance ALM adj ctr,090329,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0010,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0010,L-0003,1.00,1.00,,,,,,MI731095 - Industry Specialisation,MI731095,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0010,L-0004,1.00,1.00,,,,,,MI731095 - Industry Specialisation,MI731095,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0011,L-0000,0.00,1.00,MIRB0866 - SBG CML Property (Brand Parent),MIRB0866,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0011,L-0001,1.00,1.00,,,,,,840061 - St George Asset Lending - Trade and Cash Flow ALM Adj Centre,840061,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0011,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0011,L-0003,1.00,1.00,,,,,,MIRB0866 - SBG CML Property (Brand Parent),MIRB0866,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0011,L-0004,1.00,1.00,,,,,,MIRB0866 - SBG CML Property (Brand Parent),MIRB0866,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0012,L-0000,0.00,1.00,MICB2024 - WBC CML Property HO,MICB2024,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0012,L-0001,1.00,1.00,,,,,,090323 - Invoice Finance HO,090323,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0012,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0012,L-0003,1.00,1.00,,,,,,MICB2024 - WBC CML Property HO,MICB2024,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0012,L-0004,1.00,1.00,,,,,,MICB2024 - WBC CML Property HO,MICB2024,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0013,L-0000,0.00,1.00,MICB2576 - WBC CML VIC Property,MICB2576,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0013,L-0001,1.00,1.00,,,,,,096375 - Invoice Finance (WIF) VIC,096375,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0013,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0013,L-0003,1.00,1.00,,,,,,MICB2576 - WBC CML VIC Property,MICB2576,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0013,L-0004,1.00,1.00,,,,,,MICB2576 - WBC CML VIC Property,MICB2576,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0014,L-0000,0.00,1.00,MIRB0899 - WBC CML NSW Property,MIRB0899,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0014,L-0001,1.00,1.00,,,,,,096435 - Invoice Finance (WIF) NSW,096435,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0014,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0014,L-0003,1.00,1.00,,,,,,MIRB0899 - WBC CML NSW Property,MIRB0899,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0014,L-0004,1.00,1.00,,,,,,MIRB0899 - WBC CML NSW Property,MIRB0899,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0015,L-0000,0.00,1.00,MIRB3024 - WBC CML WA Property,MIRB3024,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0015,L-0001,1.00,1.00,,,,,,096426 - Invoice Finance (WIF) WA,096426,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0015,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0015,L-0003,1.00,1.00,,,,,,MIRB3024 - WBC CML WA Property,MIRB3024,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0015,L-0004,1.00,1.00,,,,,,MIRB3024 - WBC CML WA Property,MIRB3024,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0016,L-0000,0.00,1.00,MIRE2060 - WBC CML QLD Property,MIRE2060,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0016,L-0001,1.00,1.00,,,,,,096480 - Invoice Finance (WIF) QLD,096480,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0016,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0016,L-0003,1.00,1.00,,,,,,MIRE2060 - WBC CML QLD Property,MIRE2060,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0016,L-0004,1.00,1.00,,,,,,MIRE2060 - WBC CML QLD Property,MIRE2060,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0017,L-0000,0.00,1.00,MICB2934 - Westpac Commercial Banking NSW & ACT,MICB2934,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0017,L-0001,1.00,1.00,,,,,,096435 - Invoice Finance (WIF) NSW,096435,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0017,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0017,L-0003,1.00,1.00,,,,,,MICB2934 - Westpac Commercial Banking NSW & ACT,MICB2934,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0017,L-0004,1.00,1.00,,,,,,MICB2934 - Westpac Commercial Banking NSW & ACT,MICB2934,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0018,L-0000,0.00,1.00,MIRM4380 - WBC CML QLD (Brand Parent),MIRM4380,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0018,L-0001,1.00,1.00,,,,,,096480 - Invoice Finance (WIF) QLD,096480,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0018,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0018,L-0003,1.00,1.00,,,,,,MIRM4380 - WBC CML QLD (Brand Parent),MIRM4380,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0018,L-0004,1.00,1.00,,,,,,MIRM4380 - WBC CML QLD (Brand Parent),MIRM4380,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0019,L-0000,0.00,1.00,MISG1110 - STG CML QLD (Brand Parent),MISG1110,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0019,L-0001,1.00,1.00,,,,,,840061 - St George Asset Lending - Trade and Cash Flow ALM Adj Centre,840061,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0019,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0019,L-0003,1.00,1.00,,,,,,MISG1110 - STG CML QLD (Brand Parent),MISG1110,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0019,L-0004,1.00,1.00,,,,,,MISG1110 - STG CML QLD (Brand Parent),MISG1110,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0020,L-0000,0.00,1.00,MI188170 - WBC CML VIC (Brand Parent),MI188170,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0020,L-0001,1.00,1.00,,,,,,096375 - Invoice Finance (WIF) VIC,096375,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0020,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0020,L-0003,1.00,1.00,,,,,,MI188170 - WBC CML VIC (Brand Parent),MI188170,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0020,L-0004,1.00,1.00,,,,,,MI188170 - WBC CML VIC (Brand Parent),MI188170,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0021,L-0000,0.00,1.00,MISG1104 - BOM CML (Brand Parent),MISG1104,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0021,L-0001,1.00,1.00,,,,,,840061 - St George Asset Lending - Trade and Cash Flow ALM Adj Centre,840061,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0021,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0021,L-0003,1.00,1.00,,,,,,MISG1104 - BOM CML (Brand Parent),MISG1104,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0021,L-0004,1.00,1.00,,,,,,MISG1104 - BOM CML (Brand Parent),MISG1104,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0022,L-0000,0.00,1.00,MIRM4400 - WBC CML WA (Brand Parent),MIRM4400,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0022,L-0001,1.00,1.00,,,,,,096426 - Invoice Finance (WIF) WA,096426,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0022,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0022,L-0003,1.00,1.00,,,,,,MIRM4400 - WBC CML WA (Brand Parent),MIRM4400,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0022,L-0004,1.00,1.00,,,,,,MIRM4400 - WBC CML WA (Brand Parent),MIRM4400,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0023,L-0000,0.00,1.00,MISG1106 - STG CML WA (Brand Parent),MISG1106,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0023,L-0001,1.00,1.00,,,,,,840061 - St George Asset Lending - Trade and Cash Flow ALM Adj Centre,840061,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0023,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0023,L-0003,1.00,1.00,,,,,,MISG1106 - STG CML WA (Brand Parent),MISG1106,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0023,L-0004,1.00,1.00,,,,,,MISG1106 - STG CML WA (Brand Parent),MISG1106,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0024,L-0000,0.00,1.00,MICB2800 - WBC CML SA/NT (Brand Parent),MICB2800,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0024,L-0001,1.00,1.00,,,,,,096380 - Invoice Finance (WIF) SA/NT,096380,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0024,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0024,L-0003,1.00,1.00,,,,,,MICB2800 - WBC CML SA/NT (Brand Parent),MICB2800,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0024,L-0004,1.00,1.00,,,,,,MICB2800 - WBC CML SA/NT (Brand Parent),MICB2800,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0025,L-0000,0.00,1.00,MISG1097 - BSA CML (Brand Parent),MISG1097,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0025,L-0001,1.00,1.00,,,,,,840061 - St George Asset Lending - Trade and Cash Flow ALM Adj Centre,840061,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0025,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0025,L-0003,1.00,1.00,,,,,,MISG1097 - BSA CML (Brand Parent),MISG1097,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0025,L-0004,1.00,1.00,,,,,,MISG1097 - BSA CML (Brand Parent),MISG1097,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0026,L-0000,0.00,1.00,MI731160 - WBC CML HO (Brand Parent),MI731160,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0026,L-0001,1.00,1.00,,,,,,090323 - Invoice Finance HO,090323,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0026,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0026,L-0003,1.00,1.00,,,,,,MI731160 - WBC CML HO (Brand Parent),MI731160,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0026,L-0004,1.00,1.00,,,,,,MI731160 - WBC CML HO (Brand Parent),MI731160,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,,0.00
+I-0027,L-0000,0.00,1.00,MISG1115 -SBG CML HO (Brand Parent),MISG1115,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MISG1115 -SBG CML HO (Brand Parent)"" ValidCode - No Desc",1.00
+I-0027,L-0001,1.00,1.00,,,,,,840061 - St George Asset Lending - Trade and Cash Flow ALM Adj Centre,840061,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0027,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0027,L-0003,1.00,1.00,,,,,,MISG1115 -SBG CML HO (Brand Parent),MISG1115,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MISG1115 -SBG CML HO (Brand Parent)"" ValidCode - No Desc",1.00
+I-0027,L-0004,1.00,1.00,,,,,,MISG1115 -SBG CML HO (Brand Parent),MISG1115,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,"To Centre: ""MISG1115 -SBG CML HO (Brand Parent)"" ValidCode - No Desc",1.00
+I-0028,L-0000,0.00,1.00,MISG1449 -St George Commercial Banking NSW & ACT,MISG1449,BFINF - Invoice Finance,BFINF,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MISG1449 -St George Commercial Banking NSW & ACT"" ValidCode - No Desc",1.00
+I-0028,L-0001,1.00,1.00,,,,,,840061 - St George Asset Lending - Trade and Cash Flow ALM Adj Centre,840061,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,1.0000,,0.00
+I-0028,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,-1.0000,,0.00
+I-0028,L-0003,1.00,1.00,,,,,,MISG1449 -St George Commercial Banking NSW & ACT,MISG1449,BFINF - Invoice Finance,BFINF,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MISG1449 -St George Commercial Banking NSW & ACT"" ValidCode - No Desc",1.00
+I-0028,L-0004,1.00,1.00,,,,,,MISG1449 -St George Commercial Banking NSW & ACT,MISG1449,BFINF - Invoice Finance,BFINF,Gross Up Elimination Actual,1.0000,"To Centre: ""MISG1449 -St George Commercial Banking NSW & ACT"" ValidCode - No Desc",1.00
+I-0029,L-0000,0.00,1.00,MI187128 - Equipment Finance & Business Introducers,MI187128,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0029,L-0001,1.00,1.00,,,,,,073377 - WEF Third Party ALM adj ctr,073377,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0029,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0029,L-0003,1.00,1.00,,,,,,MI187128 - Equipment Finance & Business Introducers,MI187128,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0029,L-0004,1.00,1.00,,,,,,MI187128 - Equipment Finance & Business Introducers,MI187128,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0030,L-0000,0.00,1.00,MI187208 - SME National Head Office,MI187208,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0030,L-0001,1.00,1.00,,,,,,075693 - WEF RM HO,075693,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0030,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0030,L-0003,1.00,1.00,,,,,,MI187208 - SME National Head Office,MI187208,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0030,L-0004,1.00,1.00,,,,,,MI187208 - SME National Head Office,MI187208,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0031,L-0000,0.00,1.00,MI187209 - RM - Centres to be Closed,MI187209,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0031,L-0001,1.00,1.00,,,,,,075695 - WEF RM ALM Adj ctr,075695,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0031,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0031,L-0003,1.00,1.00,,,,,,MI187209 - RM - Centres to be Closed,MI187209,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0031,L-0004,1.00,1.00,,,,,,MI187209 - RM - Centres to be Closed,MI187209,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0032,L-0000,0.00,1.00,MI187218 -SME NSWACT WBC,MI187218,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MI187218 -SME NSWACT WBC"" ValidCode - No Desc",1.00
+I-0032,L-0001,1.00,1.00,,,,,,075650 - WEF RM NSW,075650,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0032,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0032,L-0003,1.00,1.00,,,,,,MI187218 -SME NSWACT WBC,MI187218,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MI187218 -SME NSWACT WBC"" ValidCode - No Desc",1.00
+I-0032,L-0004,1.00,1.00,,,,,,MI187218 -SME NSWACT WBC,MI187218,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,"To Centre: ""MI187218 -SME NSWACT WBC"" ValidCode - No Desc",1.00
+I-0033,L-0000,0.00,1.00,MI187219 -SME VICTAS,MI187219,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MI187219 -SME VICTAS"" ValidCode - No Desc",1.00
+I-0033,L-0001,1.00,1.00,,,,,,075685 - WEF RM VIC,075685,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0033,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0033,L-0003,1.00,1.00,,,,,,MI187219 -SME VICTAS,MI187219,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MI187219 -SME VICTAS"" ValidCode - No Desc",1.00
+I-0033,L-0004,1.00,1.00,,,,,,MI187219 -SME VICTAS,MI187219,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,"To Centre: ""MI187219 -SME VICTAS"" ValidCode - No Desc",1.00
+I-0034,L-0000,0.00,1.00,MI187224 -SME QLD,MI187224,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MI187224 -SME QLD"" ValidCode - No Desc",1.00
+I-0034,L-0001,1.00,1.00,,,,,,075660 - WEF RM QLD,075660,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0034,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0034,L-0003,1.00,1.00,,,,,,MI187224 -SME QLD,MI187224,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MI187224 -SME QLD"" ValidCode - No Desc",1.00
+I-0034,L-0004,1.00,1.00,,,,,,MI187224 -SME QLD,MI187224,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,"To Centre: ""MI187224 -SME QLD"" ValidCode - No Desc",1.00
+I-0035,L-0000,0.00,1.00,MI187225 -SME WA,MI187225,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MI187225 -SME WA"" ValidCode - No Desc",1.00
+I-0035,L-0001,1.00,1.00,,,,,,075690 - WEF RM WA,075690,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0035,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0035,L-0003,1.00,1.00,,,,,,MI187225 -SME WA,MI187225,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MI187225 -SME WA"" ValidCode - No Desc",1.00
+I-0035,L-0004,1.00,1.00,,,,,,MI187225 -SME WA,MI187225,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,"To Centre: ""MI187225 -SME WA"" ValidCode - No Desc",1.00
+I-0036,L-0000,0.00,1.00,MICBG001 -SME NSWACT STG,MICBG001,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MICBG001 -SME NSWACT STG"" ValidCode - No Desc",1.00
+I-0036,L-0001,1.00,1.00,,,,,,075650 - WEF RM NSW,075650,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0036,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0036,L-0003,1.00,1.00,,,,,,MICBG001 -SME NSWACT STG,MICBG001,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MICBG001 -SME NSWACT STG"" ValidCode - No Desc",1.00
+I-0036,L-0004,1.00,1.00,,,,,,MICBG001 -SME NSWACT STG,MICBG001,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,"To Centre: ""MICBG001 -SME NSWACT STG"" ValidCode - No Desc",1.00
+I-0037,L-0000,0.00,1.00,MIPSOMGR -SME SANT,MIPSOMGR,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MIPSOMGR -SME SANT"" ValidCode - No Desc",1.00
+I-0037,L-0001,1.00,1.00,,,,,,075688 - WEF RM SANTAS,075688,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0037,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0037,L-0003,1.00,1.00,,,,,,MIPSOMGR -SME SANT,MIPSOMGR,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MIPSOMGR -SME SANT"" ValidCode - No Desc",1.00
+I-0037,L-0004,1.00,1.00,,,,,,MIPSOMGR -SME SANT,MIPSOMGR,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,"To Centre: ""MIPSOMGR -SME SANT"" ValidCode - No Desc",1.00
+I-0038,L-0000,0.00,1.00,MI187880 - Micro SME WBC (Parent),MI187880,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0038,L-0001,1.00,1.00,,,,,,075695 - WEF RM ALM Adj ctr,075695,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0038,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0038,L-0003,1.00,1.00,,,,,,MI187880 - Micro SME WBC (Parent),MI187880,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0038,L-0004,1.00,1.00,,,,,,MI187880 - Micro SME WBC (Parent),MI187880,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0039,L-0000,0.00,1.00,841086 - 841086 - SME Micro Expense Centre,841086,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0039,L-0001,1.00,1.00,,,,,,075695 - WEF RM ALM Adj ctr,075695,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0039,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0039,L-0003,1.00,1.00,,,,,,841086 - 841086 - SME Micro Expense Centre,841086,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0039,L-0004,1.00,1.00,,,,,,841086 - 841086 - SME Micro Expense Centre,841086,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0040,L-0000,0.00,1.00,842009 - BOM SME Micro,842009,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0040,L-0001,1.00,1.00,,,,,,075685 - WEF RM VIC,075685,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0040,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0040,L-0003,1.00,1.00,,,,,,842009 - BOM SME Micro,842009,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0040,L-0004,1.00,1.00,,,,,,842009 - BOM SME Micro,842009,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0041,L-0000,0.00,1.00,842010 - BSA SME Micro,842010,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0041,L-0001,1.00,1.00,,,,,,075688 - WEF RM SANTAS,075688,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0041,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0041,L-0003,1.00,1.00,,,,,,842010 - BSA SME Micro,842010,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0041,L-0004,1.00,1.00,,,,,,842010 - BSA SME Micro,842010,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0042,L-0000,0.00,1.00,842205 - QLD SME Micro adj,842205,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0042,L-0001,1.00,1.00,,,,,,075660 - WEF RM QLD,075660,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0042,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0042,L-0003,1.00,1.00,,,,,,842205 - QLD SME Micro adj,842205,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0042,L-0004,1.00,1.00,,,,,,842205 - QLD SME Micro adj,842205,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0043,L-0000,0.00,1.00,842209 - WA SME Micro adj,842209,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0043,L-0001,1.00,1.00,,,,,,075690 - WEF RM WA,075690,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0043,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0043,L-0003,1.00,1.00,,,,,,842209 - WA SME Micro adj,842209,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0043,L-0004,1.00,1.00,,,,,,842209 - WA SME Micro adj,842209,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0044,L-0000,0.00,1.00,843132 - Micro SME SBG_ALM Adj Ctr,843132,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0044,L-0001,1.00,1.00,,,,,,075695 - WEF RM ALM Adj ctr,075695,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0044,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0044,L-0003,1.00,1.00,,,,,,843132 - Micro SME SBG_ALM Adj Ctr,843132,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0044,L-0004,1.00,1.00,,,,,,843132 - Micro SME SBG_ALM Adj Ctr,843132,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0045,L-0000,0.00,1.00,843880 - SME ACT Micro,843880,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0045,L-0001,1.00,1.00,,,,,,075650 - WEF RM NSW,075650,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0045,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0045,L-0003,1.00,1.00,,,,,,843880 - SME ACT Micro,843880,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0045,L-0004,1.00,1.00,,,,,,843880 - SME ACT Micro,843880,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0046,L-0000,0.00,1.00,848702 - SME NSW Micro,848702,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0046,L-0001,1.00,1.00,,,,,,075650 - WEF RM NSW,075650,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0046,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0046,L-0003,1.00,1.00,,,,,,848702 - SME NSW Micro,848702,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0046,L-0004,1.00,1.00,,,,,,848702 - SME NSW Micro,848702,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0047,L-0000,0.00,1.00,MIRB3093 -SME Transactional,MIRB3093,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MIRB3093 -SME Transactional"" ValidCode - No Desc",1.00
+I-0047,L-0001,1.00,1.00,,,,,,075695 - WEF RM ALM Adj ctr,075695,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0047,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0047,L-0003,1.00,1.00,,,,,,MIRB3093 -SME Transactional,MIRB3093,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MIRB3093 -SME Transactional"" ValidCode - No Desc",1.00
+I-0047,L-0004,1.00,1.00,,,,,,MIRB3093 -SME Transactional,MIRB3093,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,"To Centre: ""MIRB3093 -SME Transactional"" ValidCode - No Desc",1.00
+I-0048,L-0000,0.00,1.00,MIRB3139 -SME Specialist,MIRB3139,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MIRB3139 -SME Specialist"" ValidCode - No Desc",1.00
+I-0048,L-0001,1.00,1.00,,,,,,075695 - WEF RM ALM Adj ctr,075695,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0048,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0048,L-0003,1.00,1.00,,,,,,MIRB3139 -SME Specialist,MIRB3139,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MIRB3139 -SME Specialist"" ValidCode - No Desc",1.00
+I-0048,L-0004,1.00,1.00,,,,,,MIRB3139 -SME Specialist,MIRB3139,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,"To Centre: ""MIRB3139 -SME Specialist"" ValidCode - No Desc",1.00
+I-0049,L-0000,0.00,1.00,MICB2075 - WBC AGRI Northern NSW,MICB2075,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0049,L-0001,1.00,1.00,,,,,,076800 - WEF EF 1st Party NSW,076800,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0049,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0049,L-0003,1.00,1.00,,,,,,MICB2075 - WBC AGRI Northern NSW,MICB2075,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0049,L-0004,1.00,1.00,,,,,,MICB2075 - WBC AGRI Northern NSW,MICB2075,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0050,L-0000,0.00,1.00,MICB2636 - WBC AGRI Southern NSW,MICB2636,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0050,L-0001,1.00,1.00,,,,,,076800 - WEF EF 1st Party NSW,076800,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0050,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0050,L-0003,1.00,1.00,,,,,,MICB2636 - WBC AGRI Southern NSW,MICB2636,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0050,L-0004,1.00,1.00,,,,,,MICB2636 - WBC AGRI Southern NSW,MICB2636,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0051,L-0000,0.00,1.00,MICB2865 - WBC AGRI SA/NT,MICB2865,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0051,L-0001,1.00,1.00,,,,,,090130 - WEF EF 1st Party SANTAS,090130,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0051,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0051,L-0003,1.00,1.00,,,,,,MICB2865 - WBC AGRI SA/NT,MICB2865,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0051,L-0004,1.00,1.00,,,,,,MICB2865 - WBC AGRI SA/NT,MICB2865,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0052,L-0000,0.00,1.00,MICB2927 - WBC AGRI Queensland,MICB2927,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0052,L-0001,1.00,1.00,,,,,,090051 - WEF EF 1st Party QLD,090051,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0052,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0052,L-0003,1.00,1.00,,,,,,MICB2927 - WBC AGRI Queensland,MICB2927,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0052,L-0004,1.00,1.00,,,,,,MICB2927 - WBC AGRI Queensland,MICB2927,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0053,L-0000,0.00,1.00,MICB2933 - WBC AGRI Northern VIC,MICB2933,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0053,L-0001,1.00,1.00,,,,,,090052 - WEF EF 1st Party VIC,090052,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0053,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0053,L-0003,1.00,1.00,,,,,,MICB2933 - WBC AGRI Northern VIC,MICB2933,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0053,L-0004,1.00,1.00,,,,,,MICB2933 - WBC AGRI Northern VIC,MICB2933,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0054,L-0000,0.00,1.00,MICB2940 - WBC AGRI WA,MICB2940,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0054,L-0001,1.00,1.00,,,,,,090132 - WEF EF 1st Party WA,090132,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0054,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0054,L-0003,1.00,1.00,,,,,,MICB2940 - WBC AGRI WA,MICB2940,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0054,L-0004,1.00,1.00,,,,,,MICB2940 - WBC AGRI WA,MICB2940,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0055,L-0000,0.00,1.00,MIRB0815 - WBC AGRI VIC / TAS,MIRB0815,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0055,L-0001,1.00,1.00,,,,,,090052 - WEF EF 1st Party VIC,090052,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0055,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0055,L-0003,1.00,1.00,,,,,,MIRB0815 - WBC AGRI VIC / TAS,MIRB0815,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0055,L-0004,1.00,1.00,,,,,,MIRB0815 - WBC AGRI VIC / TAS,MIRB0815,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0056,L-0000,0.00,1.00,MIRB9040 - WBC AGRI HO,MIRB9040,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0056,L-0001,1.00,1.00,,,,,,090145 - WEF EF 1st Party HO,090145,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0056,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0056,L-0003,1.00,1.00,,,,,,MIRB9040 - WBC AGRI HO,MIRB9040,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0056,L-0004,1.00,1.00,,,,,,MIRB9040 - WBC AGRI HO,MIRB9040,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0057,L-0000,0.00,1.00,MISG0292 - SBG AGRI HO,MISG0292,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0057,L-0001,1.00,1.00,,,,,,092518 - STG EF 1st Party HO,092518,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0057,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0057,L-0003,1.00,1.00,,,,,,MISG0292 - SBG AGRI HO,MISG0292,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0057,L-0004,1.00,1.00,,,,,,MISG0292 - SBG AGRI HO,MISG0292,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0058,L-0000,0.00,1.00,MISG0663 - BSA AGRI,MISG0663,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0058,L-0001,1.00,1.00,,,,,,092345 - STG EF 1st Party SANTAS,092345,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0058,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0058,L-0003,1.00,1.00,,,,,,MISG0663 - BSA AGRI,MISG0663,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0058,L-0004,1.00,1.00,,,,,,MISG0663 - BSA AGRI,MISG0663,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0059,L-0000,0.00,1.00,MI731095 - Industry Specialisation,MI731095,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0059,L-0001,1.00,1.00,,,,,,090170 - WEF EF 1st Party ALM adj ctr,090170,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0059,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0059,L-0003,1.00,1.00,,,,,,MI731095 - Industry Specialisation,MI731095,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0059,L-0004,1.00,1.00,,,,,,MI731095 - Industry Specialisation,MI731095,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0060,L-0000,0.00,1.00,MISG0205 - STG CML NSW Property - Bankstown,MISG0205,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0060,L-0001,1.00,1.00,,,,,,092301 - STG EF 1st Party NSW,092301,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0060,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0060,L-0003,1.00,1.00,,,,,,MISG0205 - STG CML NSW Property - Bankstown,MISG0205,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0060,L-0004,1.00,1.00,,,,,,MISG0205 - STG CML NSW Property - Bankstown,MISG0205,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0061,L-0000,0.00,1.00,MISG0639 - SBG CML Property HO,MISG0639,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0061,L-0001,1.00,1.00,,,,,,092518 - STG EF 1st Party HO,092518,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0061,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0061,L-0003,1.00,1.00,,,,,,MISG0639 - SBG CML Property HO,MISG0639,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0061,L-0004,1.00,1.00,,,,,,MISG0639 - SBG CML Property HO,MISG0639,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0062,L-0000,0.00,1.00,MISG0871 - BSA CML Property,MISG0871,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0062,L-0001,1.00,1.00,,,,,,092345 - STG EF 1st Party SANTAS,092345,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0062,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0062,L-0003,1.00,1.00,,,,,,MISG0871 - BSA CML Property,MISG0871,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0062,L-0004,1.00,1.00,,,,,,MISG0871 - BSA CML Property,MISG0871,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0063,L-0000,0.00,1.00,MISG1119 - STG CML NSW Property - Sydney CBD,MISG1119,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0063,L-0001,1.00,1.00,,,,,,092301 - STG EF 1st Party NSW,092301,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0063,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0063,L-0003,1.00,1.00,,,,,,MISG1119 - STG CML NSW Property - Sydney CBD,MISG1119,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0063,L-0004,1.00,1.00,,,,,,MISG1119 - STG CML NSW Property - Sydney CBD,MISG1119,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0064,L-0000,0.00,1.00,MISG1424 - STG CML ACT Property,MISG1424,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0064,L-0001,1.00,1.00,,,,,,092301 - STG EF 1st Party NSW,092301,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0064,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0064,L-0003,1.00,1.00,,,,,,MISG1424 - STG CML ACT Property,MISG1424,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0064,L-0004,1.00,1.00,,,,,,MISG1424 - STG CML ACT Property,MISG1424,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0065,L-0000,0.00,1.00,MISG1559 - BOM CML Property,MISG1559,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0065,L-0001,1.00,1.00,,,,,,092304 - STG EF 1st Party VIC,092304,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0065,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0065,L-0003,1.00,1.00,,,,,,MISG1559 - BOM CML Property,MISG1559,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0065,L-0004,1.00,1.00,,,,,,MISG1559 - BOM CML Property,MISG1559,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0066,L-0000,0.00,1.00,MISG1562 - STG CML WA Property,MISG1562,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0066,L-0001,1.00,1.00,,,,,,092435 - STG EF 1st Party WA,092435,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0066,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0066,L-0003,1.00,1.00,,,,,,MISG1562 - STG CML WA Property,MISG1562,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0066,L-0004,1.00,1.00,,,,,,MISG1562 - STG CML WA Property,MISG1562,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0067,L-0000,0.00,1.00,MISG1571 - STG CML QLD Property,MISG1571,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0067,L-0001,1.00,1.00,,,,,,092302 - STG EF 1st Party QLD,092302,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0067,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0067,L-0003,1.00,1.00,,,,,,MISG1571 - STG CML QLD Property,MISG1571,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0067,L-0004,1.00,1.00,,,,,,MISG1571 - STG CML QLD Property,MISG1571,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0068,L-0000,0.00,1.00,MICB2024 - WBC CML Property HO,MICB2024,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0068,L-0001,1.00,1.00,,,,,,090145 - WEF EF 1st Party HO,090145,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0068,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0068,L-0003,1.00,1.00,,,,,,MICB2024 - WBC CML Property HO,MICB2024,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0068,L-0004,1.00,1.00,,,,,,MICB2024 - WBC CML Property HO,MICB2024,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0069,L-0000,0.00,1.00,MICB2576 - WBC CML VIC Property,MICB2576,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0069,L-0001,1.00,1.00,,,,,,090052 - WEF EF 1st Party VIC,090052,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0069,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0069,L-0003,1.00,1.00,,,,,,MICB2576 - WBC CML VIC Property,MICB2576,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0069,L-0004,1.00,1.00,,,,,,MICB2576 - WBC CML VIC Property,MICB2576,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0070,L-0000,0.00,1.00,MIRB0899 - WBC CML NSW Property,MIRB0899,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0070,L-0001,1.00,1.00,,,,,,076800 - WEF EF 1st Party NSW,076800,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0070,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0070,L-0003,1.00,1.00,,,,,,MIRB0899 - WBC CML NSW Property,MIRB0899,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0070,L-0004,1.00,1.00,,,,,,MIRB0899 - WBC CML NSW Property,MIRB0899,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0071,L-0000,0.00,1.00,MIRB3024 - WBC CML WA Property,MIRB3024,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0071,L-0001,1.00,1.00,,,,,,090132 - WEF EF 1st Party WA,090132,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0071,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0071,L-0003,1.00,1.00,,,,,,MIRB3024 - WBC CML WA Property,MIRB3024,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0071,L-0004,1.00,1.00,,,,,,MIRB3024 - WBC CML WA Property,MIRB3024,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0072,L-0000,0.00,1.00,MIRE2060 - WBC CML QLD Property,MIRE2060,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0072,L-0001,1.00,1.00,,,,,,090051 - WEF EF 1st Party QLD,090051,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0072,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0072,L-0003,1.00,1.00,,,,,,MIRE2060 - WBC CML QLD Property,MIRE2060,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0072,L-0004,1.00,1.00,,,,,,MIRE2060 - WBC CML QLD Property,MIRE2060,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0073,L-0000,0.00,1.00,MICB2934 - Westpac Commercial Banking NSW & ACT,MICB2934,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0073,L-0001,1.00,1.00,,,,,,076800 - WEF EF 1st Party NSW,076800,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0073,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0073,L-0003,1.00,1.00,,,,,,MICB2934 - Westpac Commercial Banking NSW & ACT,MICB2934,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0073,L-0004,1.00,1.00,,,,,,MICB2934 - Westpac Commercial Banking NSW & ACT,MICB2934,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0074,L-0000,0.00,1.00,MIRM4380 - WBC CML QLD (Brand Parent),MIRM4380,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0074,L-0001,1.00,1.00,,,,,,090051 - WEF EF 1st Party QLD,090051,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0074,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0074,L-0003,1.00,1.00,,,,,,MIRM4380 - WBC CML QLD (Brand Parent),MIRM4380,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0074,L-0004,1.00,1.00,,,,,,MIRM4380 - WBC CML QLD (Brand Parent),MIRM4380,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0075,L-0000,0.00,1.00,MISG1110 - STG CML QLD (Brand Parent),MISG1110,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0075,L-0001,1.00,1.00,,,,,,092302 - STG EF 1st Party QLD,092302,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0075,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0075,L-0003,1.00,1.00,,,,,,MISG1110 - STG CML QLD (Brand Parent),MISG1110,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0075,L-0004,1.00,1.00,,,,,,MISG1110 - STG CML QLD (Brand Parent),MISG1110,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0076,L-0000,0.00,1.00,MI188170 - WBC CML VIC (Brand Parent),MI188170,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0076,L-0001,1.00,1.00,,,,,,090052 - WEF EF 1st Party VIC,090052,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0076,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0076,L-0003,1.00,1.00,,,,,,MI188170 - WBC CML VIC (Brand Parent),MI188170,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0076,L-0004,1.00,1.00,,,,,,MI188170 - WBC CML VIC (Brand Parent),MI188170,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0077,L-0000,0.00,1.00,MISG1104 - BOM CML (Brand Parent),MISG1104,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0077,L-0001,1.00,1.00,,,,,,092304 - STG EF 1st Party VIC,092304,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0077,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0077,L-0003,1.00,1.00,,,,,,MISG1104 - BOM CML (Brand Parent),MISG1104,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0077,L-0004,1.00,1.00,,,,,,MISG1104 - BOM CML (Brand Parent),MISG1104,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0078,L-0000,0.00,1.00,MIRM4400 - WBC CML WA (Brand Parent),MIRM4400,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0078,L-0001,1.00,1.00,,,,,,090132 - WEF EF 1st Party WA,090132,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0078,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0078,L-0003,1.00,1.00,,,,,,MIRM4400 - WBC CML WA (Brand Parent),MIRM4400,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0078,L-0004,1.00,1.00,,,,,,MIRM4400 - WBC CML WA (Brand Parent),MIRM4400,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0079,L-0000,0.00,1.00,MISG1106 - STG CML WA (Brand Parent),MISG1106,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0079,L-0001,1.00,1.00,,,,,,092435 - STG EF 1st Party WA,092435,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0079,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0079,L-0003,1.00,1.00,,,,,,MISG1106 - STG CML WA (Brand Parent),MISG1106,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0079,L-0004,1.00,1.00,,,,,,MISG1106 - STG CML WA (Brand Parent),MISG1106,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0080,L-0000,0.00,1.00,MICB2800 - WBC CML SA/NT (Brand Parent),MICB2800,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0080,L-0001,1.00,1.00,,,,,,090130 - WEF EF 1st Party SANTAS,090130,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0080,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0080,L-0003,1.00,1.00,,,,,,MICB2800 - WBC CML SA/NT (Brand Parent),MICB2800,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0080,L-0004,1.00,1.00,,,,,,MICB2800 - WBC CML SA/NT (Brand Parent),MICB2800,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0081,L-0000,0.00,1.00,MISG1097 - BSA CML (Brand Parent),MISG1097,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0081,L-0001,1.00,1.00,,,,,,092345 - STG EF 1st Party SANTAS,092345,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0081,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0081,L-0003,1.00,1.00,,,,,,MISG1097 - BSA CML (Brand Parent),MISG1097,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0081,L-0004,1.00,1.00,,,,,,MISG1097 - BSA CML (Brand Parent),MISG1097,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0082,L-0000,0.00,1.00,MI731160 - WBC CML HO (Brand Parent),MI731160,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0082,L-0001,1.00,1.00,,,,,,090145 - WEF EF 1st Party HO,090145,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0082,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0082,L-0003,1.00,1.00,,,,,,MI731160 - WBC CML HO (Brand Parent),MI731160,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0082,L-0004,1.00,1.00,,,,,,MI731160 - WBC CML HO (Brand Parent),MI731160,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,,0.00
+I-0083,L-0000,0.00,1.00,MISG1115 -SBG CML HO (Brand Parent),MISG1115,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MISG1115 -SBG CML HO (Brand Parent)"" ValidCode - No Desc",1.00
+I-0083,L-0001,1.00,1.00,,,,,,092518 - STG EF 1st Party HO,092518,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0083,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0083,L-0003,1.00,1.00,,,,,,MISG1115 -SBG CML HO (Brand Parent),MISG1115,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MISG1115 -SBG CML HO (Brand Parent)"" ValidCode - No Desc",1.00
+I-0083,L-0004,1.00,1.00,,,,,,MISG1115 -SBG CML HO (Brand Parent),MISG1115,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,"To Centre: ""MISG1115 -SBG CML HO (Brand Parent)"" ValidCode - No Desc",1.00
+I-0084,L-0000,0.00,1.00,MISG1449 -St George Commercial Banking NSW & ACT,MISG1449,BFEQU - Equipment Finance,BFEQU,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MISG1449 -St George Commercial Banking NSW & ACT"" ValidCode - No Desc",1.00
+I-0084,L-0001,1.00,1.00,,,,,,092301 - STG EF 1st Party NSW,092301,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,1.0000,,0.00
+I-0084,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,-1.0000,,0.00
+I-0084,L-0003,1.00,1.00,,,,,,MISG1449 -St George Commercial Banking NSW & ACT,MISG1449,BFEQU - Equipment Finance,BFEQU,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MISG1449 -St George Commercial Banking NSW & ACT"" ValidCode - No Desc",1.00
+I-0084,L-0004,1.00,1.00,,,,,,MISG1449 -St George Commercial Banking NSW & ACT,MISG1449,BFEQU - Equipment Finance,BFEQU,Gross Up Elimination Actual,1.0000,"To Centre: ""MISG1449 -St George Commercial Banking NSW & ACT"" ValidCode - No Desc",1.00
+I-0085,L-0000,0.00,1.00,MI187128 - Equipment Finance & Business Introducers,MI187128,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0085,L-0001,1.00,1.00,,,,,,073377 - WEF Third Party ALM adj ctr,073377,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0085,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0085,L-0003,1.00,1.00,,,,,,MI187128 - Equipment Finance & Business Introducers,MI187128,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0085,L-0004,1.00,1.00,,,,,,MI187128 - Equipment Finance & Business Introducers,MI187128,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0086,L-0000,0.00,1.00,MI187208 - SME National Head Office,MI187208,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0086,L-0001,1.00,1.00,,,,,,075693 - WEF RM HO,075693,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0086,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0086,L-0003,1.00,1.00,,,,,,MI187208 - SME National Head Office,MI187208,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0086,L-0004,1.00,1.00,,,,,,MI187208 - SME National Head Office,MI187208,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0087,L-0000,0.00,1.00,MI187209 - RM - Centres to be Closed,MI187209,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0087,L-0001,1.00,1.00,,,,,,075695 - WEF RM ALM Adj ctr,075695,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0087,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0087,L-0003,1.00,1.00,,,,,,MI187209 - RM - Centres to be Closed,MI187209,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0087,L-0004,1.00,1.00,,,,,,MI187209 - RM - Centres to be Closed,MI187209,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0088,L-0000,0.00,1.00,MI187218 -SME NSWACT WBC,MI187218,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MI187218 -SME NSWACT WBC"" ValidCode - No Desc",1.00
+I-0088,L-0001,1.00,1.00,,,,,,075650 - WEF RM NSW,075650,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0088,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0088,L-0003,1.00,1.00,,,,,,MI187218 -SME NSWACT WBC,MI187218,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MI187218 -SME NSWACT WBC"" ValidCode - No Desc",1.00
+I-0088,L-0004,1.00,1.00,,,,,,MI187218 -SME NSWACT WBC,MI187218,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,"To Centre: ""MI187218 -SME NSWACT WBC"" ValidCode - No Desc",1.00
+I-0089,L-0000,0.00,1.00,MI187219 -SME VICTAS,MI187219,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MI187219 -SME VICTAS"" ValidCode - No Desc",1.00
+I-0089,L-0001,1.00,1.00,,,,,,075685 - WEF RM VIC,075685,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0089,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0089,L-0003,1.00,1.00,,,,,,MI187219 -SME VICTAS,MI187219,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MI187219 -SME VICTAS"" ValidCode - No Desc",1.00
+I-0089,L-0004,1.00,1.00,,,,,,MI187219 -SME VICTAS,MI187219,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,"To Centre: ""MI187219 -SME VICTAS"" ValidCode - No Desc",1.00
+I-0090,L-0000,0.00,1.00,MI187224 -SME QLD,MI187224,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MI187224 -SME QLD"" ValidCode - No Desc",1.00
+I-0090,L-0001,1.00,1.00,,,,,,075660 - WEF RM QLD,075660,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0090,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0090,L-0003,1.00,1.00,,,,,,MI187224 -SME QLD,MI187224,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MI187224 -SME QLD"" ValidCode - No Desc",1.00
+I-0090,L-0004,1.00,1.00,,,,,,MI187224 -SME QLD,MI187224,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,"To Centre: ""MI187224 -SME QLD"" ValidCode - No Desc",1.00
+I-0091,L-0000,0.00,1.00,MI187225 -SME WA,MI187225,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MI187225 -SME WA"" ValidCode - No Desc",1.00
+I-0091,L-0001,1.00,1.00,,,,,,075690 - WEF RM WA,075690,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0091,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0091,L-0003,1.00,1.00,,,,,,MI187225 -SME WA,MI187225,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MI187225 -SME WA"" ValidCode - No Desc",1.00
+I-0091,L-0004,1.00,1.00,,,,,,MI187225 -SME WA,MI187225,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,"To Centre: ""MI187225 -SME WA"" ValidCode - No Desc",1.00
+I-0092,L-0000,0.00,1.00,MICBG001 -SME NSWACT STG,MICBG001,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MICBG001 -SME NSWACT STG"" ValidCode - No Desc",1.00
+I-0092,L-0001,1.00,1.00,,,,,,075650 - WEF RM NSW,075650,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0092,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0092,L-0003,1.00,1.00,,,,,,MICBG001 -SME NSWACT STG,MICBG001,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MICBG001 -SME NSWACT STG"" ValidCode - No Desc",1.00
+I-0092,L-0004,1.00,1.00,,,,,,MICBG001 -SME NSWACT STG,MICBG001,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,"To Centre: ""MICBG001 -SME NSWACT STG"" ValidCode - No Desc",1.00
+I-0093,L-0000,0.00,1.00,MIPSOMGR -SME SANT,MIPSOMGR,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MIPSOMGR -SME SANT"" ValidCode - No Desc",1.00
+I-0093,L-0001,1.00,1.00,,,,,,075688 - WEF RM SANTAS,075688,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0093,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0093,L-0003,1.00,1.00,,,,,,MIPSOMGR -SME SANT,MIPSOMGR,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MIPSOMGR -SME SANT"" ValidCode - No Desc",1.00
+I-0093,L-0004,1.00,1.00,,,,,,MIPSOMGR -SME SANT,MIPSOMGR,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,"To Centre: ""MIPSOMGR -SME SANT"" ValidCode - No Desc",1.00
+I-0094,L-0000,0.00,1.00,MI187880 - Micro SME WBC (Parent),MI187880,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0094,L-0001,1.00,1.00,,,,,,075695 - WEF RM ALM Adj ctr,075695,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0094,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0094,L-0003,1.00,1.00,,,,,,MI187880 - Micro SME WBC (Parent),MI187880,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0094,L-0004,1.00,1.00,,,,,,MI187880 - Micro SME WBC (Parent),MI187880,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0095,L-0000,0.00,1.00,841086 - 841086 - SME Micro Expense Centre,841086,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0095,L-0001,1.00,1.00,,,,,,075695 - WEF RM ALM Adj ctr,075695,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0095,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0095,L-0003,1.00,1.00,,,,,,841086 - 841086 - SME Micro Expense Centre,841086,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0095,L-0004,1.00,1.00,,,,,,841086 - 841086 - SME Micro Expense Centre,841086,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0096,L-0000,0.00,1.00,842009 - BOM SME Micro,842009,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0096,L-0001,1.00,1.00,,,,,,075685 - WEF RM VIC,075685,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0096,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0096,L-0003,1.00,1.00,,,,,,842009 - BOM SME Micro,842009,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0096,L-0004,1.00,1.00,,,,,,842009 - BOM SME Micro,842009,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0097,L-0000,0.00,1.00,842010 - BSA SME Micro,842010,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0097,L-0001,1.00,1.00,,,,,,075688 - WEF RM SANTAS,075688,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0097,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0097,L-0003,1.00,1.00,,,,,,842010 - BSA SME Micro,842010,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0097,L-0004,1.00,1.00,,,,,,842010 - BSA SME Micro,842010,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0098,L-0000,0.00,1.00,842205 - QLD SME Micro adj,842205,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0098,L-0001,1.00,1.00,,,,,,075660 - WEF RM QLD,075660,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0098,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0098,L-0003,1.00,1.00,,,,,,842205 - QLD SME Micro adj,842205,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0098,L-0004,1.00,1.00,,,,,,842205 - QLD SME Micro adj,842205,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0099,L-0000,0.00,1.00,842209 - WA SME Micro adj,842209,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0099,L-0001,1.00,1.00,,,,,,075690 - WEF RM WA,075690,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0099,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0099,L-0003,1.00,1.00,,,,,,842209 - WA SME Micro adj,842209,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0099,L-0004,1.00,1.00,,,,,,842209 - WA SME Micro adj,842209,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0100,L-0000,0.00,1.00,843132 - Micro SME SBG_ALM Adj Ctr,843132,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0100,L-0001,1.00,1.00,,,,,,075695 - WEF RM ALM Adj ctr,075695,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0100,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0100,L-0003,1.00,1.00,,,,,,843132 - Micro SME SBG_ALM Adj Ctr,843132,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0100,L-0004,1.00,1.00,,,,,,843132 - Micro SME SBG_ALM Adj Ctr,843132,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0101,L-0000,0.00,1.00,843880 - SME ACT Micro,843880,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0101,L-0001,1.00,1.00,,,,,,075650 - WEF RM NSW,075650,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0101,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0101,L-0003,1.00,1.00,,,,,,843880 - SME ACT Micro,843880,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0101,L-0004,1.00,1.00,,,,,,843880 - SME ACT Micro,843880,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0102,L-0000,0.00,1.00,848702 - SME NSW Micro,848702,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0102,L-0001,1.00,1.00,,,,,,075650 - WEF RM NSW,075650,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0102,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0102,L-0003,1.00,1.00,,,,,,848702 - SME NSW Micro,848702,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0102,L-0004,1.00,1.00,,,,,,848702 - SME NSW Micro,848702,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0103,L-0000,0.00,1.00,MIRB3093 -SME Transactional,MIRB3093,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MIRB3093 -SME Transactional"" ValidCode - No Desc",1.00
+I-0103,L-0001,1.00,1.00,,,,,,075695 - WEF RM ALM Adj ctr,075695,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0103,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0103,L-0003,1.00,1.00,,,,,,MIRB3093 -SME Transactional,MIRB3093,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MIRB3093 -SME Transactional"" ValidCode - No Desc",1.00
+I-0103,L-0004,1.00,1.00,,,,,,MIRB3093 -SME Transactional,MIRB3093,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,"To Centre: ""MIRB3093 -SME Transactional"" ValidCode - No Desc",1.00
+I-0104,L-0000,0.00,1.00,MIRB3139 -SME Specialist,MIRB3139,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MIRB3139 -SME Specialist"" ValidCode - No Desc",1.00
+I-0104,L-0001,1.00,1.00,,,,,,075695 - WEF RM ALM Adj ctr,075695,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0104,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0104,L-0003,1.00,1.00,,,,,,MIRB3139 -SME Specialist,MIRB3139,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MIRB3139 -SME Specialist"" ValidCode - No Desc",1.00
+I-0104,L-0004,1.00,1.00,,,,,,MIRB3139 -SME Specialist,MIRB3139,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,"To Centre: ""MIRB3139 -SME Specialist"" ValidCode - No Desc",1.00
+I-0105,L-0000,0.00,1.00,MICB2075 - WBC AGRI Northern NSW,MICB2075,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0105,L-0001,1.00,1.00,,,,,,076800 - WEF EF 1st Party NSW,076800,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0105,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0105,L-0003,1.00,1.00,,,,,,MICB2075 - WBC AGRI Northern NSW,MICB2075,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0105,L-0004,1.00,1.00,,,,,,MICB2075 - WBC AGRI Northern NSW,MICB2075,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0106,L-0000,0.00,1.00,MICB2636 - WBC AGRI Southern NSW,MICB2636,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0106,L-0001,1.00,1.00,,,,,,076800 - WEF EF 1st Party NSW,076800,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0106,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0106,L-0003,1.00,1.00,,,,,,MICB2636 - WBC AGRI Southern NSW,MICB2636,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0106,L-0004,1.00,1.00,,,,,,MICB2636 - WBC AGRI Southern NSW,MICB2636,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0107,L-0000,0.00,1.00,MICB2865 - WBC AGRI SA/NT,MICB2865,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0107,L-0001,1.00,1.00,,,,,,090130 - WEF EF 1st Party SANTAS,090130,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0107,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0107,L-0003,1.00,1.00,,,,,,MICB2865 - WBC AGRI SA/NT,MICB2865,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0107,L-0004,1.00,1.00,,,,,,MICB2865 - WBC AGRI SA/NT,MICB2865,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0108,L-0000,0.00,1.00,MICB2927 - WBC AGRI Queensland,MICB2927,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0108,L-0001,1.00,1.00,,,,,,090051 - WEF EF 1st Party QLD,090051,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0108,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0108,L-0003,1.00,1.00,,,,,,MICB2927 - WBC AGRI Queensland,MICB2927,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0108,L-0004,1.00,1.00,,,,,,MICB2927 - WBC AGRI Queensland,MICB2927,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0109,L-0000,0.00,1.00,MICB2933 - WBC AGRI Northern VIC,MICB2933,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0109,L-0001,1.00,1.00,,,,,,090052 - WEF EF 1st Party VIC,090052,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0109,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0109,L-0003,1.00,1.00,,,,,,MICB2933 - WBC AGRI Northern VIC,MICB2933,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0109,L-0004,1.00,1.00,,,,,,MICB2933 - WBC AGRI Northern VIC,MICB2933,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0110,L-0000,0.00,1.00,MICB2940 - WBC AGRI WA,MICB2940,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0110,L-0001,1.00,1.00,,,,,,090132 - WEF EF 1st Party WA,090132,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0110,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0110,L-0003,1.00,1.00,,,,,,MICB2940 - WBC AGRI WA,MICB2940,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0110,L-0004,1.00,1.00,,,,,,MICB2940 - WBC AGRI WA,MICB2940,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0111,L-0000,0.00,1.00,MIRB0815 - WBC AGRI VIC / TAS,MIRB0815,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0111,L-0001,1.00,1.00,,,,,,090052 - WEF EF 1st Party VIC,090052,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0111,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0111,L-0003,1.00,1.00,,,,,,MIRB0815 - WBC AGRI VIC / TAS,MIRB0815,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0111,L-0004,1.00,1.00,,,,,,MIRB0815 - WBC AGRI VIC / TAS,MIRB0815,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0112,L-0000,0.00,1.00,MIRB9040 - WBC AGRI HO,MIRB9040,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0112,L-0001,1.00,1.00,,,,,,090145 - WEF EF 1st Party HO,090145,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0112,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0112,L-0003,1.00,1.00,,,,,,MIRB9040 - WBC AGRI HO,MIRB9040,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0112,L-0004,1.00,1.00,,,,,,MIRB9040 - WBC AGRI HO,MIRB9040,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0113,L-0000,0.00,1.00,MISG0292 - SBG AGRI HO,MISG0292,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0113,L-0001,1.00,1.00,,,,,,092518 - STG EF 1st Party HO,092518,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0113,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0113,L-0003,1.00,1.00,,,,,,MISG0292 - SBG AGRI HO,MISG0292,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0113,L-0004,1.00,1.00,,,,,,MISG0292 - SBG AGRI HO,MISG0292,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0114,L-0000,0.00,1.00,MISG0663 - BSA AGRI,MISG0663,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0114,L-0001,1.00,1.00,,,,,,092345 - STG EF 1st Party SANTAS,092345,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0114,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0114,L-0003,1.00,1.00,,,,,,MISG0663 - BSA AGRI,MISG0663,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0114,L-0004,1.00,1.00,,,,,,MISG0663 - BSA AGRI,MISG0663,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0115,L-0000,0.00,1.00,MI731095 - Industry Specialisation,MI731095,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0115,L-0001,1.00,1.00,,,,,,090170 - WEF EF 1st Party ALM adj ctr,090170,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0115,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0115,L-0003,1.00,1.00,,,,,,MI731095 - Industry Specialisation,MI731095,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0115,L-0004,1.00,1.00,,,,,,MI731095 - Industry Specialisation,MI731095,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0116,L-0000,0.00,1.00,MISG0205 - STG CML NSW Property - Bankstown,MISG0205,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0116,L-0001,1.00,1.00,,,,,,092301 - STG EF 1st Party NSW,092301,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0116,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0116,L-0003,1.00,1.00,,,,,,MISG0205 - STG CML NSW Property - Bankstown,MISG0205,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0116,L-0004,1.00,1.00,,,,,,MISG0205 - STG CML NSW Property - Bankstown,MISG0205,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0117,L-0000,0.00,1.00,MISG0639 - SBG CML Property HO,MISG0639,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0117,L-0001,1.00,1.00,,,,,,092518 - STG EF 1st Party HO,092518,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0117,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0117,L-0003,1.00,1.00,,,,,,MISG0639 - SBG CML Property HO,MISG0639,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0117,L-0004,1.00,1.00,,,,,,MISG0639 - SBG CML Property HO,MISG0639,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0118,L-0000,0.00,1.00,MISG0871 - BSA CML Property,MISG0871,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0118,L-0001,1.00,1.00,,,,,,092345 - STG EF 1st Party SANTAS,092345,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0118,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0118,L-0003,1.00,1.00,,,,,,MISG0871 - BSA CML Property,MISG0871,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0118,L-0004,1.00,1.00,,,,,,MISG0871 - BSA CML Property,MISG0871,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0119,L-0000,0.00,1.00,MISG1119 - STG CML NSW Property - Sydney CBD,MISG1119,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0119,L-0001,1.00,1.00,,,,,,092301 - STG EF 1st Party NSW,092301,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0119,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0119,L-0003,1.00,1.00,,,,,,MISG1119 - STG CML NSW Property - Sydney CBD,MISG1119,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0119,L-0004,1.00,1.00,,,,,,MISG1119 - STG CML NSW Property - Sydney CBD,MISG1119,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0120,L-0000,0.00,1.00,MISG1424 - STG CML ACT Property,MISG1424,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0120,L-0001,1.00,1.00,,,,,,092301 - STG EF 1st Party NSW,092301,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0120,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0120,L-0003,1.00,1.00,,,,,,MISG1424 - STG CML ACT Property,MISG1424,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0120,L-0004,1.00,1.00,,,,,,MISG1424 - STG CML ACT Property,MISG1424,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0121,L-0000,0.00,1.00,MISG1559 - BOM CML Property,MISG1559,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0121,L-0001,1.00,1.00,,,,,,092304 - STG EF 1st Party VIC,092304,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0121,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0121,L-0003,1.00,1.00,,,,,,MISG1559 - BOM CML Property,MISG1559,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0121,L-0004,1.00,1.00,,,,,,MISG1559 - BOM CML Property,MISG1559,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0122,L-0000,0.00,1.00,MISG1562 - STG CML WA Property,MISG1562,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0122,L-0001,1.00,1.00,,,,,,092435 - STG EF 1st Party WA,092435,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0122,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0122,L-0003,1.00,1.00,,,,,,MISG1562 - STG CML WA Property,MISG1562,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0122,L-0004,1.00,1.00,,,,,,MISG1562 - STG CML WA Property,MISG1562,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0123,L-0000,0.00,1.00,MISG1571 - STG CML QLD Property,MISG1571,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0123,L-0001,1.00,1.00,,,,,,092302 - STG EF 1st Party QLD,092302,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0123,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0123,L-0003,1.00,1.00,,,,,,MISG1571 - STG CML QLD Property,MISG1571,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0123,L-0004,1.00,1.00,,,,,,MISG1571 - STG CML QLD Property,MISG1571,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0124,L-0000,0.00,1.00,MICB2024 - WBC CML Property HO,MICB2024,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0124,L-0001,1.00,1.00,,,,,,090145 - WEF EF 1st Party HO,090145,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0124,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0124,L-0003,1.00,1.00,,,,,,MICB2024 - WBC CML Property HO,MICB2024,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0124,L-0004,1.00,1.00,,,,,,MICB2024 - WBC CML Property HO,MICB2024,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0125,L-0000,0.00,1.00,MICB2576 - WBC CML VIC Property,MICB2576,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0125,L-0001,1.00,1.00,,,,,,090052 - WEF EF 1st Party VIC,090052,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0125,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0125,L-0003,1.00,1.00,,,,,,MICB2576 - WBC CML VIC Property,MICB2576,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0125,L-0004,1.00,1.00,,,,,,MICB2576 - WBC CML VIC Property,MICB2576,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0126,L-0000,0.00,1.00,MIRB0899 - WBC CML NSW Property,MIRB0899,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0126,L-0001,1.00,1.00,,,,,,076800 - WEF EF 1st Party NSW,076800,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0126,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0126,L-0003,1.00,1.00,,,,,,MIRB0899 - WBC CML NSW Property,MIRB0899,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0126,L-0004,1.00,1.00,,,,,,MIRB0899 - WBC CML NSW Property,MIRB0899,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0127,L-0000,0.00,1.00,MIRB3024 - WBC CML WA Property,MIRB3024,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0127,L-0001,1.00,1.00,,,,,,090132 - WEF EF 1st Party WA,090132,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0127,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0127,L-0003,1.00,1.00,,,,,,MIRB3024 - WBC CML WA Property,MIRB3024,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0127,L-0004,1.00,1.00,,,,,,MIRB3024 - WBC CML WA Property,MIRB3024,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0128,L-0000,0.00,1.00,MIRE2060 - WBC CML QLD Property,MIRE2060,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0128,L-0001,1.00,1.00,,,,,,090051 - WEF EF 1st Party QLD,090051,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0128,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0128,L-0003,1.00,1.00,,,,,,MIRE2060 - WBC CML QLD Property,MIRE2060,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0128,L-0004,1.00,1.00,,,,,,MIRE2060 - WBC CML QLD Property,MIRE2060,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0129,L-0000,0.00,1.00,MICB2934 - Westpac Commercial Banking NSW & ACT,MICB2934,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0129,L-0001,1.00,1.00,,,,,,076800 - WEF EF 1st Party NSW,076800,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0129,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0129,L-0003,1.00,1.00,,,,,,MICB2934 - Westpac Commercial Banking NSW & ACT,MICB2934,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0129,L-0004,1.00,1.00,,,,,,MICB2934 - Westpac Commercial Banking NSW & ACT,MICB2934,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0130,L-0000,0.00,1.00,MIRM4380 - WBC CML QLD (Brand Parent),MIRM4380,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0130,L-0001,1.00,1.00,,,,,,090051 - WEF EF 1st Party QLD,090051,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0130,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0130,L-0003,1.00,1.00,,,,,,MIRM4380 - WBC CML QLD (Brand Parent),MIRM4380,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0130,L-0004,1.00,1.00,,,,,,MIRM4380 - WBC CML QLD (Brand Parent),MIRM4380,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0131,L-0000,0.00,1.00,MISG1110 - STG CML QLD (Brand Parent),MISG1110,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0131,L-0001,1.00,1.00,,,,,,092302 - STG EF 1st Party QLD,092302,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0131,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0131,L-0003,1.00,1.00,,,,,,MISG1110 - STG CML QLD (Brand Parent),MISG1110,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0131,L-0004,1.00,1.00,,,,,,MISG1110 - STG CML QLD (Brand Parent),MISG1110,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0132,L-0000,0.00,1.00,MI188170 - WBC CML VIC (Brand Parent),MI188170,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0132,L-0001,1.00,1.00,,,,,,090052 - WEF EF 1st Party VIC,090052,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0132,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0132,L-0003,1.00,1.00,,,,,,MI188170 - WBC CML VIC (Brand Parent),MI188170,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0132,L-0004,1.00,1.00,,,,,,MI188170 - WBC CML VIC (Brand Parent),MI188170,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0133,L-0000,0.00,1.00,MISG1104 - BOM CML (Brand Parent),MISG1104,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0133,L-0001,1.00,1.00,,,,,,092304 - STG EF 1st Party VIC,092304,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0133,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0133,L-0003,1.00,1.00,,,,,,MISG1104 - BOM CML (Brand Parent),MISG1104,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0133,L-0004,1.00,1.00,,,,,,MISG1104 - BOM CML (Brand Parent),MISG1104,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0134,L-0000,0.00,1.00,MIRM4400 - WBC CML WA (Brand Parent),MIRM4400,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0134,L-0001,1.00,1.00,,,,,,090132 - WEF EF 1st Party WA,090132,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0134,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0134,L-0003,1.00,1.00,,,,,,MIRM4400 - WBC CML WA (Brand Parent),MIRM4400,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0134,L-0004,1.00,1.00,,,,,,MIRM4400 - WBC CML WA (Brand Parent),MIRM4400,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0135,L-0000,0.00,1.00,MISG1106 - STG CML WA (Brand Parent),MISG1106,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0135,L-0001,1.00,1.00,,,,,,092435 - STG EF 1st Party WA,092435,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0135,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0135,L-0003,1.00,1.00,,,,,,MISG1106 - STG CML WA (Brand Parent),MISG1106,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0135,L-0004,1.00,1.00,,,,,,MISG1106 - STG CML WA (Brand Parent),MISG1106,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0136,L-0000,0.00,1.00,MICB2800 - WBC CML SA/NT (Brand Parent),MICB2800,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0136,L-0001,1.00,1.00,,,,,,090130 - WEF EF 1st Party SANTAS,090130,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0136,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0136,L-0003,1.00,1.00,,,,,,MICB2800 - WBC CML SA/NT (Brand Parent),MICB2800,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0136,L-0004,1.00,1.00,,,,,,MICB2800 - WBC CML SA/NT (Brand Parent),MICB2800,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0137,L-0000,0.00,1.00,MISG1097 - BSA CML (Brand Parent),MISG1097,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0137,L-0001,1.00,1.00,,,,,,092345 - STG EF 1st Party SANTAS,092345,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0137,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0137,L-0003,1.00,1.00,,,,,,MISG1097 - BSA CML (Brand Parent),MISG1097,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0137,L-0004,1.00,1.00,,,,,,MISG1097 - BSA CML (Brand Parent),MISG1097,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0138,L-0000,0.00,1.00,MI731160 - WBC CML HO (Brand Parent),MI731160,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0138,L-0001,1.00,1.00,,,,,,090145 - WEF EF 1st Party HO,090145,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0138,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0138,L-0003,1.00,1.00,,,,,,MI731160 - WBC CML HO (Brand Parent),MI731160,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0138,L-0004,1.00,1.00,,,,,,MI731160 - WBC CML HO (Brand Parent),MI731160,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,,0.00
+I-0139,L-0000,0.00,1.00,MISG1115 -SBG CML HO (Brand Parent),MISG1115,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MISG1115 -SBG CML HO (Brand Parent)"" ValidCode - No Desc",1.00
+I-0139,L-0001,1.00,1.00,,,,,,092518 - STG EF 1st Party HO,092518,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0139,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0139,L-0003,1.00,1.00,,,,,,MISG1115 -SBG CML HO (Brand Parent),MISG1115,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MISG1115 -SBG CML HO (Brand Parent)"" ValidCode - No Desc",1.00
+I-0139,L-0004,1.00,1.00,,,,,,MISG1115 -SBG CML HO (Brand Parent),MISG1115,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,"To Centre: ""MISG1115 -SBG CML HO (Brand Parent)"" ValidCode - No Desc",1.00
+I-0140,L-0000,0.00,1.00,MISG1449 -St George Commercial Banking NSW & ACT,MISG1449,BFINS - Insurance Funding,BFINS,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MISG1449 -St George Commercial Banking NSW & ACT"" ValidCode - No Desc",1.00
+I-0140,L-0001,1.00,1.00,,,,,,092301 - STG EF 1st Party NSW,092301,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,1.0000,,0.00
+I-0140,L-0002,1.00,1.00,,,,,,112063 - CBB Support Services ALM Adj Ctr,112063,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,-1.0000,,0.00
+I-0140,L-0003,1.00,1.00,,,,,,MISG1449 -St George Commercial Banking NSW & ACT,MISG1449,BFINS - Insurance Funding,BFINS,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MISG1449 -St George Commercial Banking NSW & ACT"" ValidCode - No Desc",1.00
+I-0140,L-0004,1.00,1.00,,,,,,MISG1449 -St George Commercial Banking NSW & ACT,MISG1449,BFINS - Insurance Funding,BFINS,Gross Up Elimination Actual,1.0000,"To Centre: ""MISG1449 -St George Commercial Banking NSW & ACT"" ValidCode - No Desc",1.00

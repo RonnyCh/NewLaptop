@@ -1,0 +1,1 @@
+﻿SELECT * FROM dbc.tables WHERE databasename='finiq'

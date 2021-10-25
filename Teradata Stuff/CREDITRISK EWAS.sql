@@ -1,0 +1,53 @@
+﻿
+
+CREATE MULTISET TABLE bpabba1.EWAS_CRDBEXTRACT ,FALLBACK ,
+     NO BEFORE JOURNAL,
+     NO AFTER JOURNAL,
+     CHECKSUM = DEFAULT,
+     DEFAULT MERGEBLOCKRATIO,
+     MAP = TD_MAP2
+     (
+      MONTH_KEY INTEGER,
+      ACCOUNT_ID CHAR(30) CHARACTER SET LATIN CASESPECIFIC,
+      CUSTOMER_ID FLOAT,
+      CONNECTION_ID CHAR(16) CHARACTER SET LATIN CASESPECIFIC,
+      CENTRE_ID CHAR(10) CHARACTER SET LATIN CASESPECIFIC,
+      PRODUCT_CODE CHAR(10) CHARACTER SET LATIN CASESPECIFIC,
+      ASSET_SUBCLASS CHAR(10) CHARACTER SET LATIN CASESPECIFIC,
+      ECC FLOAT,
+      BAL_AMT FLOAT,
+      "LIMIT" FLOAT,
+      TCE FLOAT,
+      RWA DECIMAL(16,2),
+	  CREDITRISK DECIMAL(16,2))
+PRIMARY INDEX ( ACCOUNT_ID );
+
+
+drop table bpabba1.EWAS_CRDBEXTRACT
+
+delete from bpabba1.EWAS_CRDBEXTRACT
+
+insert into bpabba1.EWAS_CRDBEXTRACT
+
+select 
+MONTH_KEY,
+ACCOUNT_ID,
+CUSTOMER_ID,
+CONNECTION_ID,
+CENTRE_ID,
+PRODUCT_CODE,
+ASSET_SUBCLASS,
+ECC,
+BAL_AMT,
+"LIMIT",
+TCE,
+RWA,
+sum(case when ASSET_SUBCLASS in ('SMECORP','SLIPRE','CORP','SOV') then ECC else RWA * 0.0875 end) as CreditRisk
+from finiq.CRDBEXTRACT tmp
+left join dwpviewa.LG_Hier_Centre as repctr
+on tmp.centre_id = repctr.LG_Centre_ID
+and date between repctr.from_date and repctr.to_date
+
+where month_key = 202105
+and trim(repctr.LG_Centre_L14_name) = 'Business'
+group by 1,2,3,4,5,6,7,8,9,10,11,12

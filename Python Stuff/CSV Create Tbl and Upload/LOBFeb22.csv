@@ -1,0 +1,291 @@
+Centre Id,Parent Flag,Current Centre Desc,Current Parent Id,Current LOB ,New Parent Id,New Parent Id Description,New LOB,Request Reason,Requestor,Approver,Business Unit
+,,,,,,,,,,,
+848174,C,!   !   !   !   !   !   !   !   !   !0120329 - Tweed City (042),SG0493,SG1456,RB7376,!   !   !   !   !   !   !Northern NSW CE,SG1123,Restructure,Nally Watters,Jason Le,Consumer
+RB1962,P,!   !   !   !   !   !   !   !   !   !   !Summ Springwood,RB1700,RB0819,RB1091,!   !   !   !   !   !   !   !   !   !   !Western Sydney Branch Summary,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1115,P,!   !   !   !   !   !   !   !   !   !Summ Dee Why,187850,RB0818,,NSW Northern Sydney & Beaches,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1120,P,!   !   !   !   !   !   !   !   !   !Summ Avalon Beach,187149,RB0818,,NSW Northern Sydney & Beaches,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1125,P,!   !   !   !   !   !   !   !   !   !Summ Manly,RG2007,RB0818,,NSW Northern Sydney & Beaches,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1135,P,!   !   !   !   !   !   !   !   !   !Summ Frenchs Fores,187850,RB0818,,NSW Northern Sydney & Beaches,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1315,P,!   !   !   !   !   !   !   !   !   !Summ Warringah Mall,RG2007,RB0818,,NSW Northern Sydney & Beaches,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1160,P,!   !   !   !   !   !   !   !   !   !Summ Mona Vale,187149,RB0818,,NSW Northern Sydney & Beaches,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1185,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Gordon,RB0846,RB0818,,NSW Northern Sydney & Beaches,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1195,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Lindfield,RB0846,RB0818,,NSW Northern Sydney & Beaches,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1215,P,!   !   !   !   !   !   !   !   !   !   !   !Summ St Ives,RB0846,RB0818,,NSW Northern Sydney & Beaches,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1270,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Ryde,RG2011,RB0818,RB0846,!   !   !   !   !   !   !   !   !   !   !North West Sydney Branch Summary,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1295,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Gladesville,RG2011,RB0818,RB0846,!   !   !   !   !   !   !   !   !   !   !North West Sydney Branch Summary,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1325,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Macquarie Cent,RG2011,RB0818,RB0846,!   !   !   !   !   !   !   !   !   !   !North West Sydney Branch Summary,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1580,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Lane Cove,RG2011,RB0818,,NSW Northern Sydney & Beaches,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1585,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Chatswood,RB0846,RB0818,,NSW Northern Sydney & Beaches,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1605,P,!   !   !   !   !   !   !   !   !   !Summ Mosman,080660,RB0818,,NSW Northern Sydney & Beaches,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1610,P,!   !   !   !   !   !   !   !   !   !Summ North Sydney,197130,RB0818,,NSW Northern Sydney & Beaches,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1625,P,!   !   !   !   !   !   !   !   !   !Summ Neutral Bay,197130,RB0818,,NSW Northern Sydney & Beaches,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1630,P,!   !   !   !   !   !   !   !   !   !Summ Northbridge,080660,RB0818,,NSW Northern Sydney & Beaches,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1670,P,!   !   !   !   !   !   !   !   !   !Crows Nest,080685,RB0818,,NSW Northern Sydney & Beaches,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB0893,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Newington,RG2011,RB0818,RB0846,!   !   !   !   !   !   !   !   !   !   !North West Sydney Branch Summary,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1920,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Auburn,RG2011,RB0818,RB0814,!   !   !   !   !   !   !   !   !   !   !Sydney South Branch Summary,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1925,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Guildford,RG2011,RB0818,RB1091,!   !   !   !   !   !   !   !   !   !   !Western Sydney Branch Summary,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1935,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Merrylands,RG2011,RB0818,RB1091,!   !   !   !   !   !   !   !   !   !   !Western Sydney Branch Summary,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1945,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Parramatta,RG2011,RB0818,RB0846,!   !   !   !   !   !   !   !   !   !   !North West Sydney Branch Summary,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB2215,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Burwood,RG2011,RB0818,RB0814,!   !   !   !   !   !   !   !   !   !   !Sydney South Branch Summary,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1990,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Wentworthville,RG2011,RB0818,RB0846,!   !   !   !   !   !   !   !   !   !   !North West Sydney Branch Summary,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1995,P,!   !   !   !   !   !   !   !   !   !   !   !Summ South Parramat,RG2011,RB0818,RB0846,!   !   !   !   !   !   !   !   !   !   !North West Sydney Branch Summary,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1922,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Richmond,RB0846,RB0818,RB1091,!   !   !   !   !   !   !   !   !   !   !Western Sydney Branch Summary,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB1932,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Windsor,RB0846,RB0818,RB1091,!   !   !   !   !   !   !   !   !   !   !Western Sydney Branch Summary,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB4012,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Rouse Hill,RB0846,RB0818,RB1091,!   !   !   !   !   !   !   !   !   !   !Western Sydney Branch Summary,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB2225,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Lakemba,RB1091,RB0818,RB2783,!   !   !   !   !   !   !   !   !   !   !South West Sydney Branch Summary,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB2230,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Strathfield,RG2011,RB0818,RB0814,!   !   !   !   !   !   !   !   !   !   !Sydney South Branch Summary,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB2245,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Rhodes,RG2011,RB0818,RB0846,!   !   !   !   !   !   !   !   !   !   !North West Sydney Branch Summary,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB2275,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Bankstown,RB1091,RB0818,RB0814,!   !   !   !   !   !   !   !   !   !   !Sydney South Branch Summary,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB2320,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Revesby,RB1091,RB0818,RB2783,!   !   !   !   !   !   !   !   !   !   !South West Sydney Branch Summary,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB2325,P,!   !   !   !   !   !   !   !   !   !   !   !Summ - Bankstown Centro,RB1091,RB0818,RB0814,!   !   !   !   !   !   !   !   !   !   !Sydney South Branch Summary,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB2380,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Surry Hills,RB0814,RB0818,197130,!   !   !   !   !   !   !   !   !CBD East,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB2520,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Broadway,RB0814,RB0818,197130,!   !   !   !   !   !   !   !   !CBD East,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+720941,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Chatswood Chase,RB0846,RB0818,,NSW Northern Sydney & Beaches,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+RB3670,P,!   !   !   !   !   !   !   !   !   !   !   !Summ Concord,RG2011,RB0818,RB0846,!   !   !   !   !   !   !   !   !   !   !North West Sydney Branch Summary,RB0818,Restructure,Nally Watters,Jason Le,Consumer
+143234,C,!   !   !   !   !   !   !   !Manager 048,RB1114,731160,RB7272,!   !   !   !   !   !Active Head Office Centres WBC,RB7272,Restructure,Sandy Yusman,Darian Govender,Business
+RB7236,P,!   !   !   !Microbusiness,RB7136,0,187100,!   !   !Customer Engagement Office,0,Restructure,Sandy Yusman,Darian Govender,Business
+RG1497,P,!   !   !   !   !   !   !   !Life Moments & Davidson,RG1499,888426,RG1495,!   !   !   !   !   !Content and Advocacy,888426,Restructure,Jakob McDonald,Jason Le,Consumer
+848040,C,!   !   !   !   !   !   !   !RMM - St George,RG9530,888426,SG0953,!   !   !   !   !   !   !   !Retail Marketing and LAM,888426,Restructure,Jakob McDonald,Jason Le,Consumer
+848416,C,!   !   !   !   !   !   !0110921 - ACT District Area (042),SG0527,SG0527,SG0470,!   !   !   !   !   !   !ACT LAM1,SG0527,Restructure,Josephine Chan,Jason Le,Consumer
+848407,C,!   !   !   !   !   !   !   !   !0120634 - Weston (042),SG0151,SG0527,SG0470,!   !   !   !   !   !   !ACT LAM1,SG0527,Restructure,Josephine Chan,Jason Le,Consumer
+848411,C,!   !   !   !   !   !   !   !   !0120641 - Tuggeranong (Hyperdome) (042),SG0152,SG0527,SG0470,!   !   !   !   !   !   !ACT LAM1,SG0527,Restructure,Josephine Chan,Jason Le,Consumer
+848412,C,!   !   !   !   !   !   !   !   !0120642 - Woden Plaza Shp 27 (042),SG0153,SG0527,SG0470,!   !   !   !   !   !   !ACT LAM1,SG0527,Restructure,Josephine Chan,Jason Le,Consumer
+848413,C,!   !   !   !   !   !   !   !   !0120645 - City Walk (042),SG0154,SG0527,SG0470,!   !   !   !   !   !   !ACT LAM1,SG0527,Restructure,Josephine Chan,Jason Le,Consumer
+848420,C,!   !   !   !   !   !   !   !   !0120689 - Gungahlin Branch (042),SG0157,SG0527,SG0470,!   !   !   !   !   !   !ACT LAM1,SG0527,Restructure,Josephine Chan,Jason Le,Consumer
+848691,C,!   !   !   !   !   !   !   !   !   !0120378 - Carindale (042),SG0492,SG1456,SG1565,!   !   !   !   !   !   !   !Brisbane City/North,SG1456,Restructure,Josephine Chan,Jason Le,Consumer
+848662,C,!   !   !   !   !   !   !   !   !   !   !0120381 - Chermside (042),SG0142,SG1456,SG1565,!   !   !   !   !   !   !   !Brisbane City/North,SG1456,Restructure,Josephine Chan,Jason Le,Consumer
+848689,C,!   !   !   !   !   !   !   !   !   !0120386 - Mt Gravatt (042),SG0492,SG1456,SG1565,!   !   !   !   !   !   !   !Brisbane City/North,SG1456,Restructure,Josephine Chan,Jason Le,Consumer
+848656,C,!   !   !   !   !   !   !   !   !   !   !0120390 - Maroochydore (042),SG0143,SG1456,SG1565,!   !   !   !   !   !   !   !Brisbane City/North,SG1456,Restructure,Josephine Chan,Jason Le,Consumer
+848704,C,!   !   !   !   !   !   !   !   !   !   !0120393 - Indooroopilly (042),SG0145,SG1456,SG1565,!   !   !   !   !   !   !   !Brisbane City/North,SG1456,Restructure,Josephine Chan,Jason Le,Consumer
+848684,C,!   !   !   !   !   !   !   !   !   !0120506 - North Lakes (042),SG0492,SG1456,SG1565,!   !   !   !   !   !   !   !Brisbane City/North,SG1456,Restructure,Josephine Chan,Jason Le,Consumer
+849565,C,!   !   !   !   !   !   !   !   !   !0334665 - George Street Brisbane,SG0492,SG1456,SG1565,!   !   !   !   !   !   !   !Brisbane City/North,SG1456,Restructure,Josephine Chan,Jason Le,Consumer
+848687,C,!   !   !   !   !   !   !   !   !   !0110942 - Brisbane South Market (042),SG0493,SG1456,SG1112,!   !   !   !   !   !   !Queensland Metro,SG1456,Restructure,Josephine Chan,Jason Le,Consumer
+RB7384,P,!   !   !   !Business Controls and Monitoring,RB7339,RB7339,,Consumer Finance (ex Scheme),RB7339,Restructure,David Kolacek,Jason Le,Consumer
+080715,P,!   !   !   !Payments,RB7339,RB7339,,Consumer Finance (ex Scheme),RB7339,Restructure,David Kolacek,Jason Le,Consumer
+159156,C,!   !   !   !Consumer Finance - ALM Adj Ctr,RB7339,RB7339,RB7233,!   !   !   !CF Head Office,RB7339,Restructure,David Kolacek,Jason Le,Consumer
+RB7229,P,!   !   !   !Credit Card Expenses,RB7339,RB7339,,Consumer Finance (ex Scheme),RB7339,Restructure,David Kolacek,Jason Le,Consumer
+RB7230,P,!   !   !   !Personal Loans Expenses,RB7339,RB7339,,Consumer Finance (ex Scheme),RB7339,Restructure,David Kolacek,Jason Le,Consumer
+RB7233,P,!   !   !   !CF Head Office,RB7339,RB7339,,Consumer Finance (ex Scheme),RB7339,Restructure,David Kolacek,Jason Le,Consumer
+RB7380,P,!   !   !   !Strategy Performance and Pricing,RB7339,RB7339,,Consumer Finance (ex Scheme),RB7339,Restructure,David Kolacek,Jason Le,Consumer
+RB7381,P,!   !   !   !Acquisition and Activation,RB7339,RB7339,,Consumer Finance (ex Scheme),RB7339,Restructure,David Kolacek,Jason Le,Consumer
+RB7382,P,!   !   !   !Product and Partnerships,RB7339,RB7339,,Consumer Finance (ex Scheme),RB7339,Restructure,David Kolacek,Jason Le,Consumer
+RB7383,P,!   !   !   !Lifecycle and Service Experience,RB7339,RB7339,,Consumer Finance (ex Scheme),RB7339,Restructure,David Kolacek,Jason Le,Consumer
+RB7222,P,!   !   !   !   !Consumer Scheme Expenses,RB7229,RB7339,RB7339,!   !   !Consumer Finance,RB7339,Restructure,David Kolacek,Jason Le,Consumer
+159134,C,!   !   !   !   !   !Other,RB7234,RB7339,RB7381,!   !   !   !Acquisition and Activation,RB7339,Restructure,David Kolacek,Jason Le,Consumer
+159150,C,!   !   !   !   !Other,RB7230,RB7339,RB7383,!   !   !   !Lifecycle and Service Experience,RB7339,Restructure,David Kolacek,Jason Le,Consumer
+RB5250,P,!   !   !   !   !   !   !   !   !Summ Tanunda,081200,RB4079,187150,!   !   !   !   !   !   !   !WBC North West Rural,RB4079,Restructure within LOB,John Morrison,Jason Le,Consumer
+RB5195,P,!   !   !   !   !   !   !   !   !Summ Port Augusta,187230,RB4079,187150,!   !   !   !   !   !   !   !WBC North West Rural,RB4079,Restructure within LOB,John Morrison,Jason Le,Consumer
+RB5430,P,!   !   !   !   !   !   !   !   !   !Summ Jabiru,RB5041,RB4079,RB5410,!   !   !   !   !   !   !   !   !   !Summ Palmerston,RB4079,Restructure within LOB,John Morrison,Jason Le,Consumer
+SG0824,P,!   !   !   !   !   !   !   !   !SGB RBB BSA Hutt Street (T),SG1443,SG0447,SG0821,!   !   !   !   !   !   !   !   !SGB RBB BSA Gouger Street (T),SG0447,Restructure within LOB,John Morrison,Jason Le,Consumer
+070416,C,!   !   !   !   !   !   !   !   !CBD HO,RB3167,RB7206,RB3625,!   !   !   !   !Westpac Head Office Retail Banking,RB3625,Restructure,Josephine Chan,Jason Le,Consumer
+352268,P,!   !   !Private Wealth,RB4152,0,RB4892,!   !Consumer,0,Restructure,Margaret Wong,Darian Govender,Business
+RB7111,P,!   !   !Business Lending LOB,RB4152,0,RB4892,!   !Consumer,0,Restructure,Margaret Wong,Darian Govender,Business
+RB7126,P,!   !   !Cash Management,RB4152,0,RB4892,!   !Consumer,0,Restructure,Margaret Wong,Darian Govender,Business
+RB7136,P,!   !   !Customer Engagement,RB4152,0,RB4892,!   !Consumer,0,Restructure,Margaret Wong,Darian Govender,Business
+RB0828,P,!   !   !   !Business Bank Funding,RB7071,RB0828,CB5000,!   !   !   !Consumer Bank Funding,CB5000,Restructure,Margaret Wong,Jason Le,Business
+RB1897,P,!   !   !   !CBB Head Office,RB7071,0,RB0782,!   !   !   !Consumer Bank Head Office,0,Restructure,Margaret Wong,Darian Govender,Business
+187183,P,!   !   !   !Product - Business and Private Wealth centres,RB7071,0,RB7054,!   !   !Support Consumer,0,Restructure,Margaret Wong,Darian Govender,Business
+RB1042,P,!   !   !   !Chief Transformation Office,RB7071,RB1042,RB7054,!   !   !Support Consumer,0,Restructure,Margaret Wong,Darian Govender,Business
+508270,P,!   !   !   !   !Business Direct and Business Services,RB1042,RB1042,187100,!   !   !Customer Engagement Office,0,Restructure,Michelle Lim,Darian Govender,Business
+RB1073,P,!   !   !   !   !Business Bank Projects,RB1042,RB1042,RC3811,!   !   !   !   !Service Revolution,RC3811,Restructure,Prashan Ratnakumar,Jason Le,Business
+RB7123,P,!   !   !   !   !   !BL Projects,RB1073,RB1042,RB1073,!   !   !   !   !Business Bank Projects,RB1042,Restructure,Prashan Ratnakumar,Darian Govender,Business
+RB7129,P,!   !   !   !   !   !Cash Management Projects,RB1073,RB1042,RB1073,!   !   !   !   !Business Bank Projects,RB1042,Restructure,Prashan Ratnakumar,Darian Govender,Business
+RB7141,P,!   !   !   !   !   !EIP CE Projects,RB1073,RB1042,RB1073,!   !   !   !   !Business Bank Projects,RB1042,Restructure,Prashan Ratnakumar,Darian Govender,Business
+218948,C,!   !   !   !   !   !   !Project Resource Centre 4,CB5003,RC3811,508270,!   !   !   !   !Business Direct and Business Services,RB1042,Restructure,Margaret Wong,Darian Govender,Consumer
+RB7128,P,!   !   !   !Cash Management Head Office,RB7126,RB7128,RB7349,!   !   !   !EveryDay Banking BAU Expenses,RB7348,Restructure,David Pan,Jason Le,Business Division
+RB7279,P,!   !   !   !Merchant Payments,RB7126,RB7279,RB7349,!   !   !   !EveryDay Banking BAU Expenses,RB7348,Restructure,David Pan,Jason Le,Business Division
+RB7281,P,!   !   !   !Everyday Business Banking,RB7126,RB7281,RB7349,!   !   !   !EveryDay Banking BAU Expenses,RB7348,Restructure,David Pan,Jason Le,Business Division
+RB7283,P,!   !   !   !Business Scheme,RB7126,RB7283,RB7348,!   !   !EveryDay Banking (EDB),RB7348,Restructure,David Pan,Jason Le,Business Division
+158595,C,!   !   !   !   !Pricing & Simplification Expenses,RB7127,RB7127,RB7349,!   !   !   !EveryDay Banking BAU Expenses,RB7348,Restructure,David Pan,Jason Le,Business Division
+RB7132,P,!   !   !   !   !Cash Management Remediation,RB7127,RB7127,RB7128,!   !   !   !Cash Management Head Office,RB7128,Restructure,David Pan,Darian Govender,Business Division
+158598,C,!   !   !   !   !Strategy Acquisition & Lifecycle Expenses,RB7130,RB7130,RB7349,!   !   !   !EveryDay Banking BAU Expenses,RB7348,Restructure,David Pan,Jason Le,Business Division
+158600,C,!   !   !   !   !Experience Expenses,RB7131,RB7131,RB7349,!   !   !   !EveryDay Banking BAU Expenses,RB7348,Restructure,David Pan,Jason Le,Business Division
+158601,C,!   !   !   !   !Experience ALM Adj Ctr,RB7131,RB7131,RB7128,!   !   !   !Cash Management Head Office,RB7128,Restructure,David Pan,Darian Govender,Business Division
+158604,C,!   !   !   !   !Business Controls & Monitoring Expenses,RB7133,RB7133,RB7349,!   !   !   !EveryDay Banking BAU Expenses,RB7348,Restructure,David Pan,Jason Le,Business Division
+502008,C,!   !   !   !   !EDB Head Office Expense Centre,RB7349,RB7348,RB7128,!   !   !   !Cash Management Head Office,RB7128,Restructure,David Pan,Darian Govender,Business Division
+842177,C,!   !   !   !   !EDB SBG Expense Centre (0118320),RB7349,RB7348,RB7128,!   !   !   !Cash Management Head Office,RB7128,Restructure,David Pan,Darian Govender,Business Division
+159176,C,!   !   !   !   !Business Cards Expenses,RB7281,RB7281,RB7382,!   !   !   !Product and Partnerships,RB7339,Restructure,David Pan,Jason Le,Business Division
+720261,C,!   !   !   !   !   !   !Analytics Continuous Improvement,187003,RB7469,New Center,Digital Performance & Operations ,RB7469,Restructure,Jakob McDonald,Jason Le,Consumer
+187332,C,!   !   !   !   !   !   !Head Office,731130,RB7469,RB7469,!   !   !   !Chief Digital Office,RB7469,Restructure,Jakob McDonald,Jason Le,Consumer
+202116,C,!   !   !   !   !   !   !Capability Maintenance & Optimisation,731130,RB7469,RB7469,!   !   !   !Chief Digital Office,RB7469,Restructure,Jakob McDonald,Jason Le,Consumer
+149082,C,!   !   !   !   !   !   !   !Ace/Token centre,080716,RB7469,New Center,Business Control & Monitoring,RB7469,Restructure,Jakob McDonald,Jason Le,Consumer
+149136,C,!   !   !   !   !   !   !   !Business Development,RG1498,888426,New Center,Digital Strategy & Partnerships,RB7469,Restructure,Jakob McDonald,Jason Le,Consumer
+117011,C,!   !   !   !   !   !   !OTP Digital,187004,RB7469,New Center,Digital Strategy & Partnerships,RB7469,Restructure,Jakob McDonald,Jason Le,Consumer
+720201,C,!   !   !   !   !   !   !   !Platform,RE4216,RB7469,New Center,Digital Development,RB7469,Restructure,Jakob McDonald,Jason Le,Consumer
+149064,C,!   !   !   !   !   !   !   !   !Website & Online Sales,081310,RB7469,New Center,Digital Experience,RB7469,Restructure,Jakob McDonald,Jason Le,Consumer
+149069,C,!   !   !   !   !   !   !   !   !SGB Platforms,081310,RB7469,New Center,Digital Performance & Operations,RB7469,Restructure,Jakob McDonald,Jason Le,Consumer
+RB7296,P,!   !   !   !   !   !Digital LOB's,888407,RB7469,RB7469,!   !   !   !Chief Digital Office,RB7469,Restructure,Jakob McDonald,Jason Le,Consumer
+159234,C,!   !   !   !   !   !   !Digital - Private Bank,RB7296,RB7469,888407,!   !   !   !   !Consumer Digital,RB7469,Restructure,Jakob McDonald,Jason Le,Consumer
+530046,C,!   !   !   !   !   !   !Consumer Online Service,197904,RB7469,197150,!   !   !   !   !   !Big Rock 4 - Digital Customer & Experience,RC3811,Restructure,Jakob McDonald,Jason Le,Consumer
+530558,C,!   !   !   !   !   !   !Drive Online,197904,RB7469,197150,!   !   !   !   !   !Big Rock 4 - Digital Customer & Experience,RC3811,Restructure,Jakob McDonald,Jason Le,Consumer
+849411,C,!   !   !   !   !   !   !0391008 - Electronic Banking (042),SG1046,RB7469,197150,!   !   !   !   !   !Big Rock 4 - Digital Customer & Experience,RC3811,Restructure,Jakob McDonald,Jason Le,Consumer
+842033,C,!   !   !   !   !   !   !   !0112565 - Interactive Voice Response (042),SG0507,RB7469,197150,!   !   !   !   !   !Big Rock 4 - Digital Customer & Experience,RC3811,Restructure,Jakob McDonald,Jason Le,Consumer
+161212,C,!   !   !   !   !   !   !   !Customer Advocacy,RG1498,888426,197150,!   !   !   !   !   !Big Rock 4 - Digital Customer & Experience,RC3811,Restructure,Jakob McDonald,Jason Le,Consumer
+888300,P,!   !   !   !   !Consumer Business Marketing,888426,888426,RB7296,!   !   !   !   !   !Digital LOB's,RB7469,Restructure,Jakob McDonald,Jason Le,Consumer
+149061,C,!   !   !   !   !   !   !SEP - Tactical - FTE,RB0807,RB7469,080716,!   !   !   !   !   !   !Digital Security,RB7469,Restructure,Jakob McDonald,Jason Le,Consumer
+888303,P,!   !   !   !   !   !Strategy Insights and Capability,888300,888426,888426,!   !   !   !Chief Marketing Office,888426,Restructure,Jakob McDonald,Jason Le,Consumer
+RG1495,P,!   !   !   !   !   !Content and Advocacy,888300,888426,888426,!   !   !   !Chief Marketing Office,888426,Restructure,Jakob McDonald,Jason Le,Consumer
+RG9990,P,!   !   !   !   !   !GM Head Office & Marketing Operations,888300,888426,888426,!   !   !   !Chief Marketing Office,888426,Restructure,Jakob McDonald,Jason Le,Consumer
+501529,C,!   !   !   !   !   !Astro,RB2060,RB1109,RB3061,!   !   !   !   !CE Transformation,RB1109,Restructure,Joyce Guan,Jason Le,Consumer
+267170,C,!   !   !   !   !   !   !Specialist 3,187247,RB1042,RC3807,!   !   !   !   !   !Service Excellence Team,RB1042,Restructure,Joyce Guan,Darian Govender,Business
+RB7533,P,!   !   !   !   !   !   !   !   !   !   !Parent_Re-enable (Mass Closure 17 Apr2020_COA),813500,808000,RB7557,DDO,RC3811,Restructure,Anushka Mahindapala/Steve Pinker,Sheila Villanueva or Jennifer Jacobsen,Business
+RB7534,P,!   !   !   !   !   !   !   !   !   !   !Parent_Re-enable (Mass Closure 17 Apr2020_COA),813500,808000,RB7560,Financial Crime,RC3811,Restructure,Anushka Mahindapala/Steve Pinker,Sheila Villanueva or Jennifer Jacobsen,Business
+RB7535,P,!   !   !   !   !   !   !   !   !   !   !Parent_Re-enable (Mass Closure 17 Apr2020_COA),813500,808000,RB7559,Privacy,RC3811,Restructure,Anushka Mahindapala/Steve Pinker,Sheila Villanueva or Jennifer Jacobsen,Business
+RB7536,P,!   !   !   !   !   !   !   !   !   !   !Parent_Re-enable (Mass Closure 17 Apr2020_COA),813500,808000,RB7558,Other Reg Projects,RC3811,Restructure,Anushka Mahindapala/Steve Pinker,Sheila Villanueva or Jennifer Jacobsen,Business
+RB7532,P,!   !   !   !   !   !   !   !   !   !   !Parent_Re-enable (Mass Closure 17 Apr2020_COA),813500,808000,RB7556,PDO LOB,RC3811,Restructure,Anushka Mahindapala/Steve Pinker,Sheila Villanueva or Jennifer Jacobsen,Business
+RC3982,P,!   !   !   !   !   !   !Remediation,RB5029,RB1042,RB7556,PDO LOB,RC3811,Restructure,Anushka Mahindapala/Steve Pinker,Sheila Villanueva or Jennifer Jacobsen,Business
+SG1536,P,!   !   !   !   !   !   !STG NSW Business Connect,CBG001,CBG001,SG1450,!   !   !   !   !   !SME Microbusiness STG,SG1450,Restructure,Ben Baker,Darian Govender,Business
+SG1464,P,!   !   !   !   !   !   !BOM Business Connect,SG1100,SG1100,SG1450,!   !   !   !   !   !SME Microbusiness STG,SG1450,Restructure,Ben Baker,Darian Govender,Business
+SG0864,P,!   !   !   !   !   !   !BSA Business Connect,SG0299,SG0299,SG1450,!   !   !   !   !   !SME Microbusiness STG,SG1450,Restructure,Ben Baker,Darian Govender,Business
+842009,C,!   !   !   !   !   !   !BOM SME Micro,SG1450,SG1450,SG1464,!   !   !   !   !   !   !BOM Business Connect,SG1100,Restructure,Ben Baker,Darian Govender,Business
+842010,C,!   !   !   !   !   !   !BSA SME Micro,SG1450,SG1450,SG0864,!   !   !   !   !   !   !BSA Business Connect,SG0299,Restructure,Ben Baker,Darian Govender,Business
+843880,C,!   !   !   !   !   !   !SME ACT Micro,SG1450,SG1450,SG1536,!   !   !   !   !   !   !STG NSW Business Connect,CBG001,Restructure,Ben Baker,Darian Govender,Business
+848702,C,!   !   !   !   !   !   !SME NSW Micro,SG1450,SG1450,SG1536,!   !   !   !   !   !   !STG NSW Business Connect,CBG001,Restructure,Ben Baker,Darian Govender,Business
+849722,C,!   !   !   !   !   !   !   !   !   !   !Closed 111215(Mass)-0334042 - Business Connect QLD,SG1572,SG1115,SG1450,!   !   !   !   !   !SME Microbusiness STG,SG1450,Restructure,Ben Baker,Darian Govender,Business
+SG0253,P,!   !   !   !   !   !   !   !   !   !   !0336064 - Business Connect WA (Parent),SG0626,SG1115,SG1450,!   !   !   !   !   !SME Microbusiness STG,SG1450,Restructure,Ben Baker,Darian Govender,Business
+RFSCAR,P,!   !   !   !   !   !Banking Remediation,RB7286,RB7286,PPCNWT,!   !   !   !Business Controls - Monitoring and Remediation,PPCNWT,Restructure,Michelle Myint,Jason Le,Business
+122110,C,!   !   !   !   !   !Governance and Reporting,RB7286,RB7286,RB1505,!   !   !   !   !Business Controls and Monitoring,PPCNWT,Restructure,Michelle Myint,Jason Le,Business
+122310,C,!   !   !   !   !   !Control Excellence & Management,RB7286,RB7286,RB1505,!   !   !   !   !Business Controls and Monitoring,PPCNWT,Restructure,Michelle Myint,Jason Le,Business
+148335,C,!   !   !   !   !   !Financial Crime,RB7286,RB7286,RB1505,!   !   !   !   !Business Controls and Monitoring,PPCNWT,Restructure,Michelle Myint,Jason Le,Business
+159190,C,!   !   !   !   !   !Change and Information,RB7286,RB7286,RB1505,!   !   !   !   !Business Controls and Monitoring,PPCNWT,Restructure,Michelle Myint,Jason Le,Business
+159192,C,!   !   !   !   !   !Risk Culture,RB7286,RB7286,RB1505,!   !   !   !   !Business Controls and Monitoring,PPCNWT,Restructure,Michelle Myint,Jason Le,Business
+121210,C,!   !   !   !   !   !Technology Cost,RB7286,RB7286,PPCNWT,!   !   !   !Business Controls - Monitoring and Remediation,PPCNWT,Restructure,Michelle Myint,Jason Le,Business
+159191,C,!   !   !   !   !   !Control and Monitoring HO,RB7286,RB7286,PSCHIF,!   !   !   !   !   !Controls & Regulatory Response & Change,PPCNWT,Restructure,Michelle Myint,Jason Le,Business
+505018,C,!   !   !   !   !BCMR Head Office,PPCNWT,PPCNWT,PSCHIF,!   !   !   !   !   !Controls & Regulatory Response & Change,PPCNWT,Restructure,Michelle Myint,Jason Le,Business
+159203,C,!   !   !   !   !   !   !Spare 1,PSCHIF,PPCNWT,RB1505,!   !   !   !   !Business Controls and Monitoring,PPCNWT,Restructure,Michelle Myint,Jason Le,Business
+159197,C,!   !   !   !   !   !Adj Centre BCM - ALM Adj Ctr,RB7286,RB7286,PPCNWT,!   !   !   !Business Controls - Monitoring and Remediation,PPCNWT,Restructure,Michelle Myint,Jason Le,Business
+RB7473,P,!   !   !Mortgages - Business Div,RB4152,RB7473,RB7342,!   !   !   !Mortgages Head Office,RB7342,Restructure,Julya Rivers,Darian Govender,Business
+RB7474,P,!   !   !Personal Loans - Business Div,RB4152,RB7474,RB7230,!   !   !   !Personal Loans Expenses,RB7339,Restructure,Julya Rivers,Darian Govender,Business
+RB7475,P,!   !   !Cards - Business Div,RB4152,RB7475,RB7229,!   !   !   !Credit Card Expenses,RB7339,Restructure,Julya Rivers,Darian Govender,Business
+RB7476,P,!   !   !EveryDay Banking - Business Div,RB4152,RB7476,RB7349,!   !   !   !EveryDay Banking BAU Expenses,RB7348,Restructure,Julya Rivers,Darian Govender,Business
+RB7477,P,!   !   !Customer Engagement offset,RB4152,RB7477,RB4892,!   !Consumer,0,Restructure,Julya Rivers,Darian Govender,Business
+RB7478,P,!   !   !Spare parent - Business Div,RB4152,RB7478,RB7472,!   !   !Spare parent - Consumer Div,RB7472,Restructure,Julya Rivers,Darian Govender,Business
+RB7123,P,!   !   !   !   !   !BL Projects,RB1073,RB1042,RC3811,!   !   !   !   !Service Revolution,RC3811,Restructure,Nicholas Morgan,Jason Le,Business
+RB7141,P,!   !   !   !   !   !EIP CE Projects,RB1073,RB1042,RB7583,CCRM & Private Wealth,RC3811,Restructure,Nicholas Morgan,Sheila Villanueva or Jennifer Jacobsen,Business
+RB7389,P,!   !   !   !   !EIP Projects,RB7107,RB7107,RB7583,CCRM & Private Wealth,RC3811,Restructure,Nicholas Morgan,Sheila Villanueva or Jennifer Jacobsen,Business
+149036,C,!   !   !   !   !   !   !   !Business Digital Agile Release Train FY19,RB5275,RB1042,RB7568,Leading Digital - EIP,RC3811,Restructure,Nicholas Morgan,Sheila Villanueva or Jennifer Jacobsen,Business
+235201,C,!   !   !   !   !   !   !   !Business Digital Agile Release Train FY20,RB5051,RB1042,RB7568,Leading Digital - EIP,RC3811,Restructure,Nicholas Morgan,Sheila Villanueva or Jennifer Jacobsen,Business
+231832,C,!   !   !   !   !   !   !   !Business Digital Agile Release Train FY21,RB5051,RB1042,RB7568,Leading Digital - EIP,RC3811,Restructure,Nicholas Morgan,Sheila Villanueva or Jennifer Jacobsen,Business
+158820,C,!   !   !   !   !   !   !   !BAU Spare L,RB5051,RB1042,RB7568,Leading Digital - EIP,RC3811,Restructure,Nicholas Morgan,Sheila Villanueva or Jennifer Jacobsen,Business
+720590,P,!   !   !   !   !   !Total Personal Lending - Commercial,RB7204,720590,,Personal Loans Agg centres,,Restructure,Daniela Fusco,Darian Govender,Business
+730814,P,!   !   !   !   !   !WBC Mortgages - Commercial,RB7204,730814,,Mortgages Agg centres,,Restructure,Daniela Fusco,Darian Govender,Business
+SG0225,P,!   !   !   !   !   !SBG Mortgages - Commercial,RB7204,SG0225,,Mortgages Agg centres,,Restructure,Daniela Fusco,Darian Govender,Business
+SG0262,P,!   !   !   !   !   !SBG Personal Lending - Commercial,RB7204,SG0262,,Personal Loans Agg centres,,Restructure,Daniela Fusco,Darian Govender,Business
+RB7470,P,!   !   !Business Lending - Consumer Div,RB4892,RB7470,RB7112,!   !   !   !BL Head Office,RB7112,Restructure,Julya Rivers,Darian Govender,Business
+RB7471,P,!   !   !Cash Management - Consumer Div,RB4892,RB7471,RB7128,!   !   !   !Cash Management Head Office,RB7128,Restructure,Julya Rivers,Darian Govender,Business
+843054,C,!   !   !   !   !   !   !   !   !BOM Retail North Head Office,SG1421,SG0429,SG0490,!   !   !   !   !   !   !   !BOM Closed Centres,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+848649,C,!   !   !   !   !   !   !   !   !BOM Retail South East Head Office,SG1129,SG0429,SG0490,!   !   !   !   !   !   !   !BOM Closed Centres,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+848582,C,!   !   !   !   !   !   !   !   !0110932 - BOM Retail Country Vic Head Office,SG1558,SG0429,SG0490,!   !   !   !   !   !   !   !BOM Closed Centres,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849587,C,!   !   !   !   !   !   !   !   !0140230 - Airport West BOM,SG1423,SG0429,SG0485,!   !   !   !   !   !   !   !BOM Retail East,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+848633,C,!   !   !   !   !   !   !   !   !0120709 - Knox City (042) BOM,SG1129,SG0429,SG1422,!   !   !   !   !   !   !   !BOM Retail South,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849594,C,!   !   !   !   !   !   !   !   !0140285 - Rowville BOM,SG1129,SG0429,SG1422,!   !   !   !   !   !   !   !BOM Retail South,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849694,C,!   !   !   !   !   !   !   !   !140653 - Ferntree Gully BOM,SG1129,SG0429,SG1422,!   !   !   !   !   !   !   !BOM Retail South,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+848630,C,!   !   !   !   !   !   !   !   !0120629 - Chadstone (042) BOM,SG1129,SG0429,SG1422,!   !   !   !   !   !   !   !BOM Retail South,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+848558,C,!   !   !   !   !   !   !   !   !0120745 - Southland (042) BOM,SG1129,SG0429,SG1422,!   !   !   !   !   !   !   !BOM Retail South,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+848565,C,!   !   !   !   !   !   !   !   !0120649 - Bentleigh (042) BOM,SG1129,SG0429,SG1422,!   !   !   !   !   !   !   !BOM Retail South,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849684,C,!   !   !   !   !   !   !   !   !140591 Carnegie BOM,SG1129,SG0429,SG1422,!   !   !   !   !   !   !   !BOM Retail South,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849588,C,!   !   !   !   !   !   !   !   !0140234 - Malvern BOM,SG1129,SG0429,SG0491,!   !   !   !   !   !   !   !BOM Retail CBD,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849609,C,!   !   !   !   !   !   !   !   !0140404 - Brighton BOM,SG1129,SG0429,SG1422,!   !   !   !   !   !   !   !BOM Retail South,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849674,C,!   !   !   !   !   !   !   !   !0140543 Elsternwick BOM,SG1129,SG0429,SG0491,!   !   !   !   !   !   !   !BOM Retail CBD,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849933,C,!   !   !   !   !   !   !   !   !0140775 - Oakleigh VIC BOM,SG1129,SG0429,SG1422,!   !   !   !   !   !   !   !BOM Retail South,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849566,C,!   !   !   !   !   !   !   !   !120203-WAVERLEY GARDENS BOM,SG1129,SG0429,SG1422,!   !   !   !   !   !   !   !BOM Retail South,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849602,C,!   !   !   !   !   !   !   !   !140357 - Clayton BOM,SG1129,SG0429,SG1422,!   !   !   !   !   !   !   !BOM Retail South,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849619,C,!   !   !   !   !   !   !   !   !0140216 - South Morang BOM,SG1421,SG0429,SG0485,!   !   !   !   !   !   !   !BOM Retail East,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849590,C,!   !   !   !   !   !   !   !   !0140259 - Broadmeadows BOM,SG1421,SG0429,SG0485,!   !   !   !   !   !   !   !BOM Retail East,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849589,C,!   !   !   !   !   !   !   !   !0140249 - Epping BOM,SG1421,SG0429,SG0485,!   !   !   !   !   !   !   !BOM Retail East,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849612,C,!   !   !   !   !   !   !   !   !140440 Craigieburn Central BOM,SG1421,SG0429,SG0485,!   !   !   !   !   !   !   !BOM Retail East,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+848634,C,!   !   !   !   !   !   !   !   !0120675 - Greensborough (042) BOM,SG1421,SG0429,SG0485,!   !   !   !   !   !   !   !BOM Retail East,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+848122,C,!   !   !   !   !   !   !   !   !0140434 - BOM Eltham,SG1421,SG0429,SG0485,!   !   !   !   !   !   !   !BOM Retail East,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849681,C,!   !   !   !   !   !   !   !   !140571 Bundoora BOM,SG1421,SG0429,SG0485,!   !   !   !   !   !   !   !BOM Retail East,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849597,C,!   !   !   !   !   !   !   !   !0140322 - Northland BOM,SG1421,SG0429,SG0485,!   !   !   !   !   !   !   !BOM Retail East,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849573,C,!   !   !   !   !   !   !   !   !120577-FITZROY BOM,SG1421,SG0429,SG0491,!   !   !   !   !   !   !   !BOM Retail CBD,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+848541,C,!   !   !   !   !   !   !   !   !0120311 - Northcote BOM,SG1421,SG0429,SG0485,!   !   !   !   !   !   !   !BOM Retail East,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849610,C,!   !   !   !   !   !   !   !   !0140415 - Coburg BOM,SG1421,SG0429,SG0485,!   !   !   !   !   !   !   !BOM Retail East,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849616,C,!   !   !   !   !   !   !   !   !140490 Brunswick Barkly Square BOM,SG1421,SG0429,SG0485,!   !   !   !   !   !   !   !BOM Retail East,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849672,C,!   !   !   !   !   !   !   !   !140529 Ivanhoe BOM,SG1421,SG0429,SG0485,!   !   !   !   !   !   !   !BOM Retail East,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849596,C,!   !   !   !   !   !   !   !   !0140314 - Brandon Park BOM,SG0485,SG0429,SG1422,!   !   !   !   !   !   !   !BOM Retail South,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+848629,C,!   !   !   !   !   !   !   !   !0120433 - Camberwell (042) BOM,SG0485,SG0429,SG0491,!   !   !   !   !   !   !   !BOM Retail CBD,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849678,C,!   !   !   !   !   !   !   !   !140558 Kew BOM,SG0485,SG0429,SG0491,!   !   !   !   !   !   !   !BOM Retail CBD,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849607,C,!   !   !   !   !   !   !   !   !0140397 - Hawthorn BOM,SG0485,SG0429,SG0491,!   !   !   !   !   !   !   !BOM Retail CBD,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+848583,C,!   !   !   !   !   !   !   !   !0120614 - Ballarat Branch (042) BOM,SG1558,SG0429,SG1423,!   !   !   !   !   !   !   !BOM Retail West,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+848585,C,!   !   !   !   !   !   !   !   !0120686 - Geelong (042) BOM,SG1558,SG0429,SG1423,!   !   !   !   !   !   !   !BOM Retail West,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849676,C,!   !   !   !   !   !   !   !   !140554 Waurn Ponds BOM,SG1558,SG0429,SG1423,!   !   !   !   !   !   !   !BOM Retail West,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+848590,C,!   !   !   !   !   !   !   !   !0120778 - Warrnambool Branch (042) BOM,SG1558,SG0429,SG1423,!   !   !   !   !   !   !   !BOM Retail West,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+848589,C,!   !   !   !   !   !   !   !   !0120744 - Shepparton (042) BOM,SG1558,SG0429,SG1423,!   !   !   !   !   !   !   !BOM Retail West,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849679,C,!   !   !   !   !   !   !   !   !140566 Bendigo BOM,SG1558,SG0429,SG1423,!   !   !   !   !   !   !   !BOM Retail West,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+848594,C,!   !   !   !   !   !   !   !   !0120789 - Mildura (042) BOM,SG1558,SG0429,SG1423,!   !   !   !   !   !   !   !BOM Retail West,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+848584,C,!   !   !   !   !   !   !   !   !0120630 - Colac (042) BOM,SG1558,SG0429,SG1423,!   !   !   !   !   !   !   !BOM Retail West,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+848587,C,!   !   !   !   !   !   !   !   !0120705 - Horsham (042) BOM,SG1558,SG0429,SG1423,!   !   !   !   !   !   !   !BOM Retail West,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+848588,C,!   !   !   !   !   !   !   !   !0120741 - Portland (042) BOM,SG1558,SG0429,SG1423,!   !   !   !   !   !   !   !BOM Retail West,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849615,C,!   !   !   !   !   !   !   !   !140465 Melton BOM,SG1558,SG0429,SG1423,!   !   !   !   !   !   !   !BOM Retail West,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849691,C,!   !   !   !   !   !   !   !   !140644 - Sunbury BOM,SG1558,SG0429,SG1423,!   !   !   !   !   !   !   !BOM Retail West,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849595,C,!   !   !   !   !   !   !   !   !0140291-Hampton BOM,SG1129,SG0429,SG1422,!   !   !   !   !   !   !   !BOM Retail South,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849677,C,!   !   !   !   !   !   !   !   !140557 Reservoir BOM,SG1421,SG0429,SG0485,!   !   !   !   !   !   !   !BOM Retail East,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849599,C,!   !   !   !   !   !   !   !   !0140327 - Ashburton BOM,SG0485,SG0429,SG1422,!   !   !   !   !   !   !   !BOM Retail South,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+848586,C,!   !   !   !   !   !   !   !   !0120703 - Hamilton (042) BOM,SG1558,SG0429,SG1423,!   !   !   !   !   !   !   !BOM Retail West,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849569,C,!   !   !   !   !   !   !   !   !140435 - Abbotsford BOM,SG1421,SG0429,SG0491,!   !   !   !   !   !   !   !BOM Retail CBD,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849618,C,!   !   !   !   !   !   !   !   !0140215-Corio Branch BOM,SG1558,SG0429,SG1423,!   !   !   !   !   !   !   !BOM Retail West,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849698,C,!   !   !   !   !   !   !   !   !140769 - Fairfield BOM,SG1421,SG0429,SG0485,!   !   !   !   !   !   !   !BOM Retail East,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849611,C,!   !   !   !   !   !   !   !   !0140421 - Balaclava Vic BOM,SG1129,SG0429,SG0491,!   !   !   !   !   !   !   !BOM Retail CBD,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+849670,C,!   !   !   !   !   !   !   !   !140519 Doreen BOM,SG0490,SG0429,SG0485,!   !   !   !   !   !   !   !BOM Retail East,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+848637,C,!   !   !   !   !   !   !   !   !0120526 - Preston (042) BOM,SG0490,SG0429,SG0485,!   !   !   !   !   !   !   !BOM Retail East,SG0429,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3242,P,!   !   !   !   !   !   !   !   !   !Summ Balmoral Centr,090489,RB3995,080350,!   !   !   !   !   !   !   !   !Regional South East Vic Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3027,P,!   !   !   !   !   !   !   !   !   !Summ 409 St Kilda R,RB3021,RB3995,090489,!   !   !   !   !   !   !   !   !Bayside Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3046,P,!   !   !   !   !   !   !   !   !   !Summary WANTIRNA STH - KNOX SHOP 140A,731052,RB3995,RB3133,!   !   !   !   !   !   !   !   !Melbourne South Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3034,P,!   !   !   !   !   !   !   !   !   !Summary CHELSEA - 399-400 NEPEAN HWY,090489,RB3995,080350,!   !   !   !   !   !   !   !   !Regional South East Vic Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3217,P,!   !   !   !   !   !   !   !   !   !Summ Karingal,090489,RB3995,080350,!   !   !   !   !   !   !   !   !Regional South East Vic Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3227,P,!   !   !   !   !   !   !   !   !   !Summ Mornington,090489,RB3995,080350,!   !   !   !   !   !   !   !   !Regional South East Vic Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3212,P,!   !   !   !   !   !   !   !   !   !Summ Mount Eliza,090489,RB3995,RB3133,!   !   !   !   !   !   !   !   !Melbourne South Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3247,P,!   !   !   !   !   !   !   !   !   !Summ Seaford Centra,090489,RB3995,RB3133,!   !   !   !   !   !   !   !   !Melbourne South Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3350,P,!   !   !   !   !   !   !   !   !   !95-97 Mooraobool St Geelong,RB3081,RB3995,RC3929,!   !   !   !   !   !   !   !   !Melbourne West Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3725,P,!   !   !   !   !   !   !   !   !   !Summ Ararat,RB3081,RB3995,RC3886,!   !   !   !   !   !   !   !   !Regional North Vic Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3755,P,!   !   !   !   !   !   !   !   !   !Summ Ballarat,RB3081,RB3995,RC3886,!   !   !   !   !   !   !   !   !Regional North Vic Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3345,P,!   !   !   !   !   !   !   !   !   !Summ Belmont,RB3081,RB3995,RC3886,!   !   !   !   !   !   !   !   !Regional North Vic Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3780,P,!   !   !   !   !   !   !   !   !   !Summ Colac,RB3081,RB3995,RC3886,!   !   !   !   !   !   !   !   !Regional North Vic Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3370,P,!   !   !   !   !   !   !   !   !   !Summ Geelong West,RB3081,RB3995,RC3929,!   !   !   !   !   !   !   !   !Melbourne West Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3795,P,!   !   !   !   !   !   !   !   !   !Summ Hamilton,RB3081,RB3995,RC3886,!   !   !   !   !   !   !   !   !Regional North Vic Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3760,P,!   !   !   !   !   !   !   !   !   !Summ Horsham,RB3081,RB3995,RC3886,!   !   !   !   !   !   !   !   !Regional North Vic Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3365,P,!   !   !   !   !   !   !   !   !   !Summ Newcomb,RB3081,RB3995,RC3929,!   !   !   !   !   !   !   !   !Melbourne West Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3360,P,!   !   !   !   !   !   !   !   !   !Summ OceanGrove,RB3081,RB3995,RC3886,!   !   !   !   !   !   !   !   !Regional North Vic Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3800,P,!   !   !   !   !   !   !   !   !   !Summ Portland,RB3081,RB3995,RC3886,!   !   !   !   !   !   !   !   !Regional North Vic Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3325,P,!   !   !   !   !   !   !   !   !   !Summ Torquay,RB3081,RB3995,RC3886,!   !   !   !   !   !   !   !   !Regional North Vic Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3790,P,!   !   !   !   !   !   !   !   !   !Summ Warrnambool,RB3081,RB3995,RC3886,!   !   !   !   !   !   !   !   !Regional North Vic Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+720980,P,!   !   !   !   !   !   !   !   !   !Summ Waurn Ponds,RB3081,RB3995,RC3929,!   !   !   !   !   !   !   !   !Melbourne West Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RA5140,P,!   !   !   !   !   !   !   !   !   !Summ Wendouree,RB3081,RB3995,RC3886,!   !   !   !   !   !   !   !   !Regional North Vic Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3570,P,!   !   !   !   !   !   !   !   !   !Summ Prahran,RB3021,RB3995,090489,!   !   !   !   !   !   !   !   !Bayside Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3575,P,!   !   !   !   !   !   !   !   !   !Summ Sth Yarra,RB3021,RB3995,090489,!   !   !   !   !   !   !   !   !Bayside Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3580,P,!   !   !   !   !   !   !   !   !   !Summ Toorak,RB3021,RB3995,090489,!   !   !   !   !   !   !   !   !Bayside Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3285,P,!   !   !   !   !   !   !   !   !   !Summ Ferntree Gully,731052,RB3995,RB3133,!   !   !   !   !   !   !   !   !Melbourne South Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3026,P,!   !   !   !   !   !   !   !   !   !Summary GLEN WAVERLEY-THE GLEN SCENTR,731052,RB3995,RB3133,!   !   !   !   !   !   !   !   !Melbourne South Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3985,P,!   !   !   !   !   !   !   !   !   !Summ Rowville,731052,RB3995,RB3133,!   !   !   !   !   !   !   !   !Melbourne South Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3067,P,!   !   !   !   !   !   !   !   !   !Summ Abbotsford,RM4439,RB3995,RB3021,!   !   !   !   !   !   !   !   !Melbourne City Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3052,P,!   !   !   !   !   !   !   !   !   !Summ Brunswick,RM4439,RB3995,RB3021,!   !   !   !   !   !   !   !   !Melbourne City Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3057,P,!   !   !   !   !   !   !   !   !   !Summ Carlton,RM4439,RB3995,RB3021,!   !   !   !   !   !   !   !   !Melbourne City Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3272,P,!   !   !   !   !   !   !   !   !   !Summ Coburg,RM4439,RB3995,RB3021,!   !   !   !   !   !   !   !   !Melbourne City Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3042,P,!   !   !   !   !   !   !   !   !   !Summ Fitzroy,RM4439,RB3995,RB3021,!   !   !   !   !   !   !   !   !Melbourne City Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3545,P,!   !   !   !   !   !   !   !   !   !Summ Balwyn,RB3001,RB3995,731052,!   !   !   !   !   !   !   !   !Melbourne East Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3595,P,!   !   !   !   !   !   !   !   !   !Summ Camberwell,RB3001,RB3995,731052,!   !   !   !   !   !   !   !   !Melbourne East Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3013,P,!   !   !   !   !   !   !   !   !   !Summary DONCASTER - SHOP 241 WESTFIELD,RB3001,RB3995,731052,!   !   !   !   !   !   !   !   !Melbourne East Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3297,P,!   !   !   !   !   !   !   !   !   !Summ Eltham,RB3001,RB3995,RM4439,!   !   !   !   !   !   !   !   !Melbourne North Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3282,P,!   !   !   !   !   !   !   !   !   !Summ Greensborough,RB3001,RB3995,RM4439,!   !   !   !   !   !   !   !   !Melbourne North Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3540,P,!   !   !   !   !   !   !   !   !   !Summ Greythorn,RB3001,RB3995,731052,!   !   !   !   !   !   !   !   !Melbourne East Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3555,P,!   !   !   !   !   !   !   !   !   !Summ Hawthorn,RB3001,RB3995,731052,!   !   !   !   !   !   !   !   !Melbourne East Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3515,P,!   !   !   !   !   !   !   !   !   !Summ Ivanhoe,RB3001,RB3995,RM4439,!   !   !   !   !   !   !   !   !Melbourne North Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3560,P,!   !   !   !   !   !   !   !   !   !Summ Kew,RB3001,RB3995,RB3021,!   !   !   !   !   !   !   !   !Melbourne City Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3615,P,!   !   !   !   !   !   !   !   !   !Summ South Morang,RB3001,RB3995,RM4439,!   !   !   !   !   !   !   !   !Melbourne North Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3220,P,!   !   !   !   !   !   !   !   !   !Summ The Pines,RB3001,RB3995,731052,!   !   !   !   !   !   !   !   !Melbourne East Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3003,P,!   !   !   !   !   !   !   !   !   !Summ University Hill,RB3001,RB3995,RM4439,!   !   !   !   !   !   !   !   !Melbourne North Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3342,P,!   !   !   !   !   !   !   !   !   !Summ Whittlesea,RB3001,RB3995,RM4439,!   !   !   !   !   !   !   !   !Melbourne North Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3120,P,!   !   !   !   !   !   !   !   !   !Summ Carnegie,RB3133,RB3995,090489,!   !   !   !   !   !   !   !   !Bayside Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3955,P,!   !   !   !   !   !   !   !   !   !Summ Chadstone,RB3133,RB3995,090489,!   !   !   !   !   !   !   !   !Bayside Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3925,P,!   !   !   !   !   !   !   !   !   !Summ Oakleigh,RB3133,RB3995,090489,!   !   !   !   !   !   !   !   !Bayside Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3650,P,!   !   !   !   !   !   !   !   !   !Summ Gisbourne,RC3886,RB3995,RM4439,!   !   !   !   !   !   !   !   !Melbourne North Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3870,P,!   !   !   !   !   !   !   !   !   !Summ Melton,RC3886,RB3995,RC3929,!   !   !   !   !   !   !   !   !Melbourne West Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+RB3865,P,!   !   !   !   !   !   !   !   !   !Summ Sunbury,RC3886,RB3995,RM4439,!   !   !   !   !   !   !   !   !Melbourne North Branch Summary,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+187402,P,!   !   !   !   !   !   !   !Geelong West,731135,RB3995,RA6188,!   !   !   !   !   !   !   !Obsolete Centres,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+CB2645,P,!   !   !   !   !   !   !   !Melbourne North East,731135,RB3995,RA6188,!   !   !   !   !   !   !   !Obsolete Centres,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+730363,C,!   !   !   !   !   !   !   !   !Greater Geelong VIC HO,187402,RB3995,RA6188,!   !   !   !   !   !   !   !Obsolete Centres,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+741690,C,!   !   !   !   !   !   !   !   !Greater Geelong VIC Inoperatives,187402,RB3995,RA6188,!   !   !   !   !   !   !   !Obsolete Centres,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+103080,C,!   !   !   !   !   !   !   !   !   !   !360 Collins St - Transactional Business,RB3020,RB3995,RA6188,!   !   !   !   !   !   !   !Obsolete Centres,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+730378,C,!   !   !   !   !   !   !   !   !Melbourne North East VIC HO,CB2645,RB3995,RA6188,!   !   !   !   !   !   !   !Obsolete Centres,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer
+104830,C,!   !   !   !   !   !   !   !   !Melbourne North East VIC Inoperative,CB2645,RB3995,RA6188,!   !   !   !   !   !   !   !Obsolete Centres,RB3995,Restructure within LOB,Cameron Ford,Jason Le,Consumer

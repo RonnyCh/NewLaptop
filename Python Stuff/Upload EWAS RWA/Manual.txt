@@ -1,0 +1,21 @@
+
+
+All the codes in this folder is compiled under bat file _RunAll.
+High level it will do the following :
+1. Activate python using anaconda, you need to change the path to your local anaconda path
+2. Read email from digital mailbox
+3. CSV for GDW upload
+4. CSV for SQL server upload
+5. Email notification to advise users files have been loaded.
+
+
+Read each py file in the steps below if you need to understand the logic.
+
+call "C:\Users\M118954\anaconda3\Scripts\activate.bat"
+
+python "C:\Users\M118954\OneDrive - Westpac Group\_sharing\Upload EWAS RWA\Email.py"     
+python "C:\Users\M118954\OneDrive - Westpac Group\_sharing\Upload EWAS RWA\CSV.py"
+python "C:\Users\M118954\OneDrive - Westpac Group\_sharing\Upload EWAS RWA\CSV_SQLSERVER.py"
+python "C:\Users\M118954\OneDrive - Westpac Group\_sharing\Upload EWAS RWA\Notify.py"
+
+pause

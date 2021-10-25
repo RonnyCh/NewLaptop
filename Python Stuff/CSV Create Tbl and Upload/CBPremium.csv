@@ -1,0 +1,130 @@
+Index1,Index2,Active Index,Active,From Account,From Account Principal Name,From Centre,From Centre Principal Name,From Scenario,To Account,To Account Principal Name,To Centre,To Centre Principal Name,To Scenario,Weight,ErrorValidation,ErrorValidationCount
+I-0001,L-0000,0.00,1.00,,,MIRA0001 - NSW Westpac Premium,MIRA0001,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MIRA0001 - NSW Westpac Premium"" ValidCode - Invalid Desc",2.00
+I-0001,L-0001,1.00,1.00,,,,,,,,140017 - Westpac Premium-HO,140017,Gross Up Adjustment Actual,1.0000,"To Centre: ""140017 - Westpac Premium-HO"" ValidCode - Invalid Desc",2.00
+I-0001,L-0002,1.00,1.00,,,,,,,,150005 - NSW Metro - DO NOT DELETE,150005,Gross Up Elimination Actual,-1.0000,,0.00
+I-0001,L-0003,1.00,1.00,,,,,,,,MIRA0001 - NSW Westpac Premium,MIRA0001,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MIRA0001 - NSW Westpac Premium"" ValidCode - Invalid Desc",2.00
+I-0001,L-0004,1.00,1.00,,,,,,,,MIRA0001 - NSW Westpac Premium,MIRA0001,Gross Up Elimination Actual,1.0000,"To Centre: ""MIRA0001 - NSW Westpac Premium"" ValidCode - Invalid Desc",2.00
+I-0002,L-0000,0.00,1.00,,,MI090494 - Premium NSW Regional,MI090494,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0002,L-0001,1.00,1.00,,,,,,,,140017 - Westpac Premium-HO,140017,Gross Up Adjustment Actual,1.0000,"To Centre: ""140017 - Westpac Premium-HO"" ValidCode - Invalid Desc",2.00
+I-0002,L-0002,1.00,1.00,,,,,,,,150012 - NSW Regional - DO NOT DELETE,150012,Gross Up Elimination Actual,-1.0000,,0.00
+I-0002,L-0003,1.00,1.00,,,,,,,,MI090494 - Premium NSW Regional,MI090494,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0002,L-0004,1.00,1.00,,,,,,,,MI090494 - Premium NSW Regional,MI090494,Gross Up Elimination Actual,1.0000,,0.00
+I-0003,L-0000,0.00,1.00,,,MI731101 - VIC Westpac Premium  Total,MI731101,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MI731101 - VIC Westpac Premium  Total"" ValidCode - Invalid Desc",2.00
+I-0003,L-0001,1.00,1.00,,,,,,,,140017 - Westpac Premium-HO,140017,Gross Up Adjustment Actual,1.0000,"To Centre: ""140017 - Westpac Premium-HO"" ValidCode - Invalid Desc",2.00
+I-0003,L-0002,1.00,1.00,,,,,,,,150200 - VIC/TAS - DO NOT DELETE,150200,Gross Up Elimination Actual,-1.0000,,0.00
+I-0003,L-0003,1.00,1.00,,,,,,,,MI731101 - VIC Westpac Premium  Total,MI731101,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MI731101 - VIC Westpac Premium  Total"" ValidCode - Invalid Desc",2.00
+I-0003,L-0004,1.00,1.00,,,,,,,,MI731101 - VIC Westpac Premium  Total,MI731101,Gross Up Elimination Actual,1.0000,"To Centre: ""MI731101 - VIC Westpac Premium  Total"" ValidCode - Invalid Desc",2.00
+I-0004,L-0000,0.00,1.00,,,MIRB1960 - SA/NT Premium Financial Services Summary,MIRB1960,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MIRB1960 - SA/NT Premium Financial Services Summary"" ValidCode - Invalid Desc",2.00
+I-0004,L-0001,1.00,1.00,,,,,,,,140017 - Westpac Premium-HO,140017,Gross Up Adjustment Actual,1.0000,"To Centre: ""140017 - Westpac Premium-HO"" ValidCode - Invalid Desc",2.00
+I-0004,L-0002,1.00,1.00,,,,,,,,150245 - SA/NT - DO NOT DELETE,150245,Gross Up Elimination Actual,-1.0000,,0.00
+I-0004,L-0003,1.00,1.00,,,,,,,,MIRB1960 - SA/NT Premium Financial Services Summary,MIRB1960,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MIRB1960 - SA/NT Premium Financial Services Summary"" ValidCode - Invalid Desc",2.00
+I-0004,L-0004,1.00,1.00,,,,,,,,MIRB1960 - SA/NT Premium Financial Services Summary,MIRB1960,Gross Up Elimination Actual,1.0000,"To Centre: ""MIRB1960 - SA/NT Premium Financial Services Summary"" ValidCode - Invalid Desc",2.00
+I-0005,L-0000,0.00,1.00,,,MI731103 - WA Westpac Premium  Total,MI731103,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MI731103 - WA Westpac Premium  Total"" ValidCode - Invalid Desc",2.00
+I-0005,L-0001,1.00,1.00,,,,,,,,140017 - Westpac Premium-HO,140017,Gross Up Adjustment Actual,1.0000,"To Centre: ""140017 - Westpac Premium-HO"" ValidCode - Invalid Desc",2.00
+I-0005,L-0002,1.00,1.00,,,,,,,,150240 - WA - DO NOT DELETE,150240,Gross Up Elimination Actual,-1.0000,,0.00
+I-0005,L-0003,1.00,1.00,,,,,,,,MI731103 - WA Westpac Premium  Total,MI731103,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MI731103 - WA Westpac Premium  Total"" ValidCode - Invalid Desc",2.00
+I-0005,L-0004,1.00,1.00,,,,,,,,MI731103 - WA Westpac Premium  Total,MI731103,Gross Up Elimination Actual,1.0000,"To Centre: ""MI731103 - WA Westpac Premium  Total"" ValidCode - Invalid Desc",2.00
+I-0006,L-0000,0.00,1.00,,,MI731102 - PFS QLD Total,MI731102,Reportable Actual ex Gross up,,,,,,0.0000,"From Centre: ""MI731102 - PFS QLD Total"" ValidCode - Invalid Desc",2.00
+I-0006,L-0001,1.00,1.00,,,,,,,,140017 - Westpac Premium-HO,140017,Gross Up Adjustment Actual,1.0000,"To Centre: ""140017 - Westpac Premium-HO"" ValidCode - Invalid Desc",2.00
+I-0006,L-0002,1.00,1.00,,,,,,,,150210 - QLD - DO NOT DELETE,150210,Gross Up Elimination Actual,-1.0000,,0.00
+I-0006,L-0003,1.00,1.00,,,,,,,,MI731102 - PFS QLD Total,MI731102,Gross Up Adjustment Actual,-1.0000,"To Centre: ""MI731102 - PFS QLD Total"" ValidCode - Invalid Desc",2.00
+I-0006,L-0004,1.00,1.00,,,,,,,,MI731102 - PFS QLD Total,MI731102,Gross Up Elimination Actual,1.0000,"To Centre: ""MI731102 - PFS QLD Total"" ValidCode - Invalid Desc",2.00
+I-0007,L-0000,0.00,1.00,ALOANS - Loans,ALOANS,MI187652 - HLP NSW,MI187652,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0007,L-0001,1.00,1.00,,,,,,ALOANS - Loans,ALOANS,533790 - NSW NRM Adj Ctr,533790,Gross Up Adjustment Actual,1.0000,,0.00
+I-0007,L-0002,1.00,1.00,,,,,,ALOANS - Loans,ALOANS,150005 - NSW Metro - DO NOT DELETE,150005,Gross Up Elimination Actual,-1.0000,,0.00
+I-0007,L-0003,1.00,1.00,,,,,,ALOANS - Loans,ALOANS,MI187652 - HLP NSW,MI187652,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0007,L-0004,1.00,1.00,,,,,,ALOANS - Loans,ALOANS,MI187652 - HLP NSW,MI187652,Gross Up Elimination Actual,1.0000,,0.00
+I-0008,L-0000,0.00,1.00,ALOANS - Loans,ALOANS,MI187653 - HLP VIC,MI187653,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0008,L-0001,1.00,1.00,,,,,,ALOANS - Loans,ALOANS,187301 - VIC/TAS NRM Adj Ctr,187301,Gross Up Adjustment Actual,1.0000,,0.00
+I-0008,L-0002,1.00,1.00,,,,,,ALOANS - Loans,ALOANS,150200 - VIC/TAS - DO NOT DELETE,150200,Gross Up Elimination Actual,-1.0000,,0.00
+I-0008,L-0003,1.00,1.00,,,,,,ALOANS - Loans,ALOANS,MI187653 - HLP VIC,MI187653,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0008,L-0004,1.00,1.00,,,,,,ALOANS - Loans,ALOANS,MI187653 - HLP VIC,MI187653,Gross Up Elimination Actual,1.0000,,0.00
+I-0009,L-0000,0.00,1.00,ALOANS - Loans,ALOANS,MI187655 - HLP WA,MI187655,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0009,L-0001,1.00,1.00,,,,,,ALOANS - Loans,ALOANS,720971 - WA NRM Adj Ctr,720971,Gross Up Adjustment Actual,1.0000,,0.00
+I-0009,L-0002,1.00,1.00,,,,,,ALOANS - Loans,ALOANS,150240 - WA - DO NOT DELETE,150240,Gross Up Elimination Actual,-1.0000,,0.00
+I-0009,L-0003,1.00,1.00,,,,,,ALOANS - Loans,ALOANS,MI187655 - HLP WA,MI187655,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0009,L-0004,1.00,1.00,,,,,,ALOANS - Loans,ALOANS,MI187655 - HLP WA,MI187655,Gross Up Elimination Actual,1.0000,,0.00
+I-0010,L-0000,0.00,1.00,ALOANS - Loans,ALOANS,MI187656 - HLP QLD,MI187656,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0010,L-0001,1.00,1.00,,,,,,ALOANS - Loans,ALOANS,144171 - QLD NRM Adj Ctr,144171,Gross Up Adjustment Actual,1.0000,,0.00
+I-0010,L-0002,1.00,1.00,,,,,,ALOANS - Loans,ALOANS,150210 - QLD - DO NOT DELETE,150210,Gross Up Elimination Actual,-1.0000,,0.00
+I-0010,L-0003,1.00,1.00,,,,,,ALOANS - Loans,ALOANS,MI187656 - HLP QLD,MI187656,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0010,L-0004,1.00,1.00,,,,,,ALOANS - Loans,ALOANS,MI187656 - HLP QLD,MI187656,Gross Up Elimination Actual,1.0000,,0.00
+I-0011,L-0000,0.00,1.00,ALOANS - Loans,ALOANS,MI187659 - HLP SA,MI187659,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0011,L-0001,1.00,1.00,,,,,,ALOANS - Loans,ALOANS,113746 - SA/NT VCM Ctr,113746,Gross Up Adjustment Actual,1.0000,,0.00
+I-0011,L-0002,1.00,1.00,,,,,,ALOANS - Loans,ALOANS,150245 - SA/NT - DO NOT DELETE,150245,Gross Up Elimination Actual,-1.0000,,0.00
+I-0011,L-0003,1.00,1.00,,,,,,ALOANS - Loans,ALOANS,MI187659 - HLP SA,MI187659,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0011,L-0004,1.00,1.00,,,,,,ALOANS - Loans,ALOANS,MI187659 - HLP SA,MI187659,Gross Up Elimination Actual,1.0000,,0.00
+I-0012,L-0000,0.00,1.00,LCUSDP - Deposits at amortised cost,LCUSDP,MI187652 - HLP NSW,MI187652,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0012,L-0001,1.00,1.00,,,,,,LCUSDP - Deposits at amortised cost,LCUSDP,533790 - NSW NRM Adj Ctr,533790,Gross Up Adjustment Actual,1.0000,,0.00
+I-0012,L-0002,1.00,1.00,,,,,,LCUSDP - Deposits at amortised cost,LCUSDP,150005 - NSW Metro - DO NOT DELETE,150005,Gross Up Elimination Actual,-1.0000,,0.00
+I-0012,L-0003,1.00,1.00,,,,,,LCUSDP - Deposits at amortised cost,LCUSDP,MI187652 - HLP NSW,MI187652,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0012,L-0004,1.00,1.00,,,,,,LCUSDP - Deposits at amortised cost,LCUSDP,MI187652 - HLP NSW,MI187652,Gross Up Elimination Actual,1.0000,,0.00
+I-0013,L-0000,0.00,1.00,LCUSDP - Deposits at amortised cost,LCUSDP,MI187653 - HLP VIC,MI187653,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0013,L-0001,1.00,1.00,,,,,,LCUSDP - Deposits at amortised cost,LCUSDP,187301 - VIC/TAS NRM Adj Ctr,187301,Gross Up Adjustment Actual,1.0000,,0.00
+I-0013,L-0002,1.00,1.00,,,,,,LCUSDP - Deposits at amortised cost,LCUSDP,150200 - VIC/TAS - DO NOT DELETE,150200,Gross Up Elimination Actual,-1.0000,,0.00
+I-0013,L-0003,1.00,1.00,,,,,,LCUSDP - Deposits at amortised cost,LCUSDP,MI187653 - HLP VIC,MI187653,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0013,L-0004,1.00,1.00,,,,,,LCUSDP - Deposits at amortised cost,LCUSDP,MI187653 - HLP VIC,MI187653,Gross Up Elimination Actual,1.0000,,0.00
+I-0014,L-0000,0.00,1.00,LCUSDP - Deposits at amortised cost,LCUSDP,MI187655 - HLP WA,MI187655,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0014,L-0001,1.00,1.00,,,,,,LCUSDP - Deposits at amortised cost,LCUSDP,720971 - WA NRM Adj Ctr,720971,Gross Up Adjustment Actual,1.0000,,0.00
+I-0014,L-0002,1.00,1.00,,,,,,LCUSDP - Deposits at amortised cost,LCUSDP,150240 - WA - DO NOT DELETE,150240,Gross Up Elimination Actual,-1.0000,,0.00
+I-0014,L-0003,1.00,1.00,,,,,,LCUSDP - Deposits at amortised cost,LCUSDP,MI187655 - HLP WA,MI187655,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0014,L-0004,1.00,1.00,,,,,,LCUSDP - Deposits at amortised cost,LCUSDP,MI187655 - HLP WA,MI187655,Gross Up Elimination Actual,1.0000,,0.00
+I-0015,L-0000,0.00,1.00,LCUSDP - Deposits at amortised cost,LCUSDP,MI187656 - HLP QLD,MI187656,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0015,L-0001,1.00,1.00,,,,,,LCUSDP - Deposits at amortised cost,LCUSDP,144171 - QLD NRM Adj Ctr,144171,Gross Up Adjustment Actual,1.0000,,0.00
+I-0015,L-0002,1.00,1.00,,,,,,LCUSDP - Deposits at amortised cost,LCUSDP,150210 - QLD - DO NOT DELETE,150210,Gross Up Elimination Actual,-1.0000,,0.00
+I-0015,L-0003,1.00,1.00,,,,,,LCUSDP - Deposits at amortised cost,LCUSDP,MI187656 - HLP QLD,MI187656,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0015,L-0004,1.00,1.00,,,,,,LCUSDP - Deposits at amortised cost,LCUSDP,MI187656 - HLP QLD,MI187656,Gross Up Elimination Actual,1.0000,,0.00
+I-0016,L-0000,0.00,1.00,LCUSDP - Deposits at amortised cost,LCUSDP,MI187659 - HLP SA,MI187659,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0016,L-0001,1.00,1.00,,,,,,LCUSDP - Deposits at amortised cost,LCUSDP,113746 - SA/NT VCM Ctr,113746,Gross Up Adjustment Actual,1.0000,,0.00
+I-0016,L-0002,1.00,1.00,,,,,,LCUSDP - Deposits at amortised cost,LCUSDP,150245 - SA/NT - DO NOT DELETE,150245,Gross Up Elimination Actual,-1.0000,,0.00
+I-0016,L-0003,1.00,1.00,,,,,,LCUSDP - Deposits at amortised cost,LCUSDP,MI187659 - HLP SA,MI187659,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0016,L-0004,1.00,1.00,,,,,,LCUSDP - Deposits at amortised cost,LCUSDP,MI187659 - HLP SA,MI187659,Gross Up Elimination Actual,1.0000,,0.00
+I-0017,L-0000,0.00,1.00,SOPINC - Operating income,SOPINC,MI187652 - HLP NSW,MI187652,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0017,L-0001,1.00,1.00,,,,,,SOPINC - Operating income,SOPINC,533790 - NSW NRM Adj Ctr,533790,Gross Up Adjustment Actual,1.0000,,0.00
+I-0017,L-0002,1.00,1.00,,,,,,SOPINC - Operating income,SOPINC,150005 - NSW Metro - DO NOT DELETE,150005,Gross Up Elimination Actual,-1.0000,,0.00
+I-0017,L-0003,1.00,1.00,,,,,,SOPINC - Operating income,SOPINC,MI187652 - HLP NSW,MI187652,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0017,L-0004,1.00,1.00,,,,,,SOPINC - Operating income,SOPINC,MI187652 - HLP NSW,MI187652,Gross Up Elimination Actual,1.0000,,0.00
+I-0018,L-0000,0.00,1.00,SOPINC - Operating income,SOPINC,MI187653 - HLP VIC,MI187653,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0018,L-0001,1.00,1.00,,,,,,SOPINC - Operating income,SOPINC,187301 - VIC/TAS NRM Adj Ctr,187301,Gross Up Adjustment Actual,1.0000,,0.00
+I-0018,L-0002,1.00,1.00,,,,,,SOPINC - Operating income,SOPINC,150200 - VIC/TAS - DO NOT DELETE,150200,Gross Up Elimination Actual,-1.0000,,0.00
+I-0018,L-0003,1.00,1.00,,,,,,SOPINC - Operating income,SOPINC,MI187653 - HLP VIC,MI187653,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0018,L-0004,1.00,1.00,,,,,,SOPINC - Operating income,SOPINC,MI187653 - HLP VIC,MI187653,Gross Up Elimination Actual,1.0000,,0.00
+I-0019,L-0000,0.00,1.00,SOPINC - Operating income,SOPINC,MI187655 - HLP WA,MI187655,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0019,L-0001,1.00,1.00,,,,,,SOPINC - Operating income,SOPINC,720971 - WA NRM Adj Ctr,720971,Gross Up Adjustment Actual,1.0000,,0.00
+I-0019,L-0002,1.00,1.00,,,,,,SOPINC - Operating income,SOPINC,150240 - WA - DO NOT DELETE,150240,Gross Up Elimination Actual,-1.0000,,0.00
+I-0019,L-0003,1.00,1.00,,,,,,SOPINC - Operating income,SOPINC,MI187655 - HLP WA,MI187655,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0019,L-0004,1.00,1.00,,,,,,SOPINC - Operating income,SOPINC,MI187655 - HLP WA,MI187655,Gross Up Elimination Actual,1.0000,,0.00
+I-0020,L-0000,0.00,1.00,SOPINC - Operating income,SOPINC,MI187656 - HLP QLD,MI187656,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0020,L-0001,1.00,1.00,,,,,,SOPINC - Operating income,SOPINC,144171 - QLD NRM Adj Ctr,144171,Gross Up Adjustment Actual,1.0000,,0.00
+I-0020,L-0002,1.00,1.00,,,,,,SOPINC - Operating income,SOPINC,150210 - QLD - DO NOT DELETE,150210,Gross Up Elimination Actual,-1.0000,,0.00
+I-0020,L-0003,1.00,1.00,,,,,,SOPINC - Operating income,SOPINC,MI187656 - HLP QLD,MI187656,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0020,L-0004,1.00,1.00,,,,,,SOPINC - Operating income,SOPINC,MI187656 - HLP QLD,MI187656,Gross Up Elimination Actual,1.0000,,0.00
+I-0021,L-0000,0.00,1.00,SOPINC - Operating income,SOPINC,MI187659 - HLP SA,MI187659,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0021,L-0001,1.00,1.00,,,,,,SOPINC - Operating income,SOPINC,113746 - SA/NT VCM Ctr,113746,Gross Up Adjustment Actual,1.0000,,0.00
+I-0021,L-0002,1.00,1.00,,,,,,SOPINC - Operating income,SOPINC,150245 - SA/NT - DO NOT DELETE,150245,Gross Up Elimination Actual,-1.0000,,0.00
+I-0021,L-0003,1.00,1.00,,,,,,SOPINC - Operating income,SOPINC,MI187659 - HLP SA,MI187659,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0021,L-0004,1.00,1.00,,,,,,SOPINC - Operating income,SOPINC,MI187659 - HLP SA,MI187659,Gross Up Elimination Actual,1.0000,,0.00
+I-0022,L-0000,0.00,1.00,SACCTS - Account structure,SACCTS,MICB2585 - WBC Micro Business Lending,MICB2585,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0022,L-0001,1.00,1.00,,,,,,SACCTS - Account structure,SACCTS,076503 - Business Finance - Consumer - Agg centre,076503,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0022,L-0002,1.00,1.00,,,,,,SACCTS - Account structure,SACCTS,090472 - SME Micro Centre,090472,Gross Up Elimination Actual,1.0000,,0.00
+I-0023,L-0000,0.00,1.00,SACCTS - Account structure,SACCTS,MICB2691 - WBC Micro Business Deposits,MICB2691,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0023,L-0001,1.00,1.00,,,,,,SACCTS - Account structure,SACCTS,077026 - Business Deposits - Consumer - Agg centre,077026,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0023,L-0002,1.00,1.00,,,,,,SACCTS - Account structure,SACCTS,090472 - SME Micro Centre,090472,Gross Up Elimination Actual,1.0000,,0.00
+I-0024,L-0000,0.00,1.00,SACCTS - Account structure,SACCTS,MISG0521 - SBG Micro Business Deposits,MISG0521,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0024,L-0001,1.00,1.00,,,,,,SACCTS - Account structure,SACCTS,848231 - SBG Business Deposits - Consumer - Agg centre,848231,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0024,L-0002,1.00,1.00,,,,,,SACCTS - Account structure,SACCTS,841086 - 841086 - SME Micro Expense Centre,841086,Gross Up Elimination Actual,1.0000,,0.00
+I-0025,L-0000,0.00,1.00,SACCTS - Account structure,SACCTS,MISG0531 - SBG Micro Business Lending,MISG0531,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0025,L-0001,1.00,1.00,,,,,,SACCTS - Account structure,SACCTS,848203 - SBG Bus  Lending- Consumer - Agg centre,848203,Gross Up Adjustment Actual,-1.0000,,0.00
+I-0025,L-0002,1.00,1.00,,,,,,SACCTS - Account structure,SACCTS,841086 - 841086 - SME Micro Expense Centre,841086,Gross Up Elimination Actual,1.0000,,0.00
+I-0026,L-0000,0.00,1.00,SOPEXP - Operating expenses,SOPEXP,MICB2585 - WBC Micro Business Lending,MICB2585,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0026,L-0001,1.00,1.00,,,,,,SOPEXP - Operating expenses,SOPEXP,076503 - Business Finance - Consumer - Agg centre,076503,Gross Up Adjustment Actual,1.0000,,0.00
+I-0026,L-0002,1.00,1.00,,,,,,SOPEXP - Operating expenses,SOPEXP,090472 - SME Micro Centre,090472,Gross Up Elimination Actual,-1.0000,,0.00
+I-0027,L-0000,0.00,1.00,SOPEXP - Operating expenses,SOPEXP,MICB2691 - WBC Micro Business Deposits,MICB2691,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0027,L-0001,1.00,1.00,,,,,,SOPEXP - Operating expenses,SOPEXP,077026 - Business Deposits - Consumer - Agg centre,077026,Gross Up Adjustment Actual,1.0000,,0.00
+I-0027,L-0002,1.00,1.00,,,,,,SOPEXP - Operating expenses,SOPEXP,090472 - SME Micro Centre,090472,Gross Up Elimination Actual,-1.0000,,0.00
+I-0028,L-0000,0.00,1.00,SOPEXP - Operating expenses,SOPEXP,MISG0521 - SBG Micro Business Deposits,MISG0521,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0028,L-0001,1.00,1.00,,,,,,SOPEXP - Operating expenses,SOPEXP,848231 - SBG Business Deposits - Consumer - Agg centre,848231,Gross Up Adjustment Actual,1.0000,,0.00
+I-0028,L-0002,1.00,1.00,,,,,,SOPEXP - Operating expenses,SOPEXP,841086 - 841086 - SME Micro Expense Centre,841086,Gross Up Elimination Actual,-1.0000,,0.00
+I-0029,L-0000,0.00,1.00,SOPEXP - Operating expenses,SOPEXP,MISG0531 - SBG Micro Business Lending,MISG0531,Reportable Actual ex Gross up,,,,,,0.0000,,0.00
+I-0029,L-0001,1.00,1.00,,,,,,SOPEXP - Operating expenses,SOPEXP,848203 - SBG Bus  Lending- Consumer - Agg centre,848203,Gross Up Adjustment Actual,1.0000,,0.00
+I-0029,L-0002,1.00,1.00,,,,,,SOPEXP - Operating expenses,SOPEXP,841086 - 841086 - SME Micro Expense Centre,841086,Gross Up Elimination Actual,-1.0000,,0.00
